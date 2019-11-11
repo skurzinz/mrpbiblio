@@ -317,7 +317,7 @@ BIBLIOGRAPHIE
 <name>Landesgesetz- und Regierungsblatt für das Kronland Oesterreich ob der Enns 1850</name>.
 <name>Landesgesetz- und Regierungsblatt für das Kronland Oesterreich unter der Enns 1850</name>.
 <name>Landesgesetz- und Regierungsblatt für das Kronland Salzburg 1850</name>.
-<name>Landesgesetz- und Regierungsblatt für das Kronland Siebenbürgen</name> 1850.
+<name>Landesgesetz- und Regierungsblatt für das Kronland Siebenbürgen 1850</name> .
 <name>Landesgesetz- und Regierungsblatt für das Kronland Steiermark 1850</name>. 
 <name>Landesgesetz- und Regierungsblatt für das Kronland Tirol und Vorarlberg 1850</name>.
 <name>Landesgesetz- und Regierungsblatt für das Kronland Ungarn 1850</name>.
@@ -359,7 +359,7 @@ BIBLIOGRAPHIE
 <name>Szemere</name> Bartholomäus, Graf Ludwig Batthyány, Arthur Görgei, Ludwig Kossuth. Charakterskizzen aus dem ungarischen Freiheitskriege, 3 Bde. <address>Hamburg</address><year>1853</year>.
 
 5. Zeitungen und Zeitschriften
-<name>Allgemeine Zeitung des Judenthums</name> 1850.
+<name>Allgemeine Zeitung des Judenthums 1850</name>.
 <name>Brünner Zeitung</name> (1850).
 <name>Czas</name> (1850).
 <name>Deutsche Reform</name> (1850).
@@ -616,7 +616,7 @@ BIBLIOGRAPHIE
 <name>Landesgesetz- und Regierungsblatt für das Kronland Oesterreich ob der Enns 1850</name>.
 <name>Landesgesetz- und Regierungsblatt für das Kronland Oesterreich unter der Enns 1850</name>.
 <name>Landesgesetz- und Regierungsblatt für das Kronland Salzburg 1850</name>.
-<name>Landesgesetz- und Regierungsblatt für das Kronland Siebenbürgen</name> 1850.
+<name>Landesgesetz- und Regierungsblatt für das Kronland Siebenbürgen 1850</name>.
 <name>Landesgesetz- und Regierungsblatt für das Kronland Steiermark 1850</name>. 
 <name>Landesgesetz- und Regierungsblatt für das Kronland Tirol und Vorarlberg 1850</name>.
 <name>Landesgesetz- und Regierungsblatt für das Kronland Ungarn 1850</name>.
@@ -636,7 +636,7 @@ BIBLIOGRAPHIE
 <name>Brzezina</name> Friedrich, Praktische Anwendung der prov. Gesetze vom 28. Dezbr. 1849 und 16. August 1850 über das Grundbuchverfahren und vom 2. August 1850 über die Stämpel- und Taxgebühren im Kronlande Ungarn <address>Preßburg</address><year>1851</year>.
 
 4. Zeitungen und Zeitschriften
-<name>Allgemeine Zeitung des Judenthums</name> 1850.
+<name>Allgemeine Zeitung des Judenthums 1850</name>.
 <name>Deutsche Reform</name> (1850).
 <name>The Morning Chronicle</name> (1850).
 <name>Wiener Zeitung</name> (1850).
@@ -770,7 +770,7 @@ Béla Pálmány (Hg.), Az 1848-1849. évi első népképviseleti országgyűlés
 <name>Jgv</name>. siehe Gesetze und Verordnungen (Verfassungen) im Justizfach.
 <name>Kaiserlich-königliches Armee-Verordnungsblatt 1851</name>.
 <name>Landesgesetz- und Regierungsblatt für das Erzherzogtum Oesterreich unter der Enns</name> 1850, 1851
-<name>Landesgesetz- und Regierungsblatt für das Kronland Böhmen</name> 1851.
+<name>Landesgesetz- und Regierungsblatt für das Kronland Böhmen 1851</name> .
 <name>Landesgesetz- und Regierungsblatt für die Lombardei 1850</name>.
 <name>Milasch</name>, Nikodemus, Pravila pravoslavne crkve s tumačenima (Kanons der orthodoxen Kirche mit Kommentar), 2 Bde. (Novi Sad 1895/96).
 <name>Die Protokolle des österreichischen Ministerrates</name> 1848-1867 [zit. als Ömr.], Einleitungsband: Ministerrat und Ministerratsprotokolle 1848-1867. Behördengeschichtliche und aktenkundliche Analyse von Helmut Rumpler <address>Wien</address><year>1970</year>; I: Die Ministerien des Revolutionsjahres 1848, 20. März 1848 – 21. November 1848, bearbeitet und eingeleitet von Thomas Kletečka <address>Wien</address><year>1996</year>; II/1: Das Ministerium Schwarzenberg, 5. Dezember 1848 – 7. Jänner 1850, bearbeitet und eingeleitet von Thomas Kletečka (Wien 2002); II/2: Das Ministerium Schwarzenberg, 8. Jänner 1850 – 30. April 1850, bearbeitet und eingeleitet von Thomas Kletečka und Anatol Schmied-Kowarzik unter Mitarbeit von Andreas Gottsmann (Wien 2005); II/3: Das Ministerium Schwarzenberg, 1. Mai 1850 – 30. September 1850, bearbeitet und eingeleitet von Thomas Kletečka und Anatol Schmied-Kowarzik unter Mitarbeit von Andreas Gottsmann (Wien 2006); III/1: Das Ministerium Buol-Schauenstein, 14. April 1852 – 13. März 1853, bearbeitet von Waltraud Heindl, mit einer Einleitung von Friedrich Engel-Janosi <address>Wien</address><year>1975</year>; III/2: Das Ministerium Buol-Schauenstein, 15. März 1853 – 9. Oktober 1853, bearbeitet von Waltraud Heindl, mit einem Vorwort von Gerald Stourzh <address>Wien</address><year>1979</year>; III/3: Das Ministerium Buol-Schauenstein, 11. Oktober 1853 – 19. Dezember 1854, bearbeitet von Waltraud Heindl, mit einem Vorwort von Gerald Stourzh <address>Wien</address><year>1984</year>; III/4: Das Ministerium Buol-Schauenstein, 23. Dezember 1854 – 12. April 1856, bearbeitet von Waltraud Heindl, mit einem Vorwort von Helmut Rumpler <address>Wien</address><year>1987</year>; III/5: Das Ministerium Buol-Schauenstein, 26. April 1856 – 5. Februar 1857, bearbeitet und eingeleitet von Waltraud Heindl <address>Wien</address><year>1993</year>; IV/1: Das Ministerium Rechberg, 19. Mai 1859 – 2./3. März 1860, bearbeitet und eingeleitet von Stefan Malfèr (Wien 2003); IV/2: Das Ministerium Rechberg, 6. März 1860 – 16. Oktober 1860, bearbeitet und eingeleitet von Stefan Malfèr (Wien 2007); IV/3: Das Ministerium Rechberg, 21. Oktober 1860 – 2. Februar 1861, bearbeitet und eingeleitet von Stefan Malfèr (Wien 2009); V/1: Die Ministerien Erzherzog Rainer und Mensdorff, 7. Februar 1861 – 30. April 1861, bearbeitet von Horst Brettner-Messler, mit einer Einleitung von Friedrich Engel-Janosi <address>Wien</address><year>1977</year>; V/2: Die Ministerien Erzherzog Rainer und Mensdorff, 1. Mai 1861 – 2. November 1861, bearbeitet von Stefan Malfèr, mit einem Vorwort von Gerald Stourzh <address>Wien</address><year>1981</year>; V/3: Die Ministerien Erzherzog Rainer und Mensdorff, 5. November 1861 – 6. Mai 1862, bearbeitet von Stefan Malfèr, mit einem Vorwort von Helmut Rumpler <address>Wien</address><year>1985</year>; V/4: Die Ministerien Erzherzog Rainer und Mensdorff, 8. Mai 1862 – 31. Oktober 1862, bearbeitet von Horst Brettner-Messler und Klaus Koch, mit einem Vorwort von Helmut Rumpler <address>Wien</address><year>1986</year>; V/5: Die Ministerien Erzherzog Rainer und Mensdorff, 3. November 1862 – 30. April 1863, bearbeitet von Stefan Malfèr, mit einem Vorwort von Helmut Rumpler <address>Wien</address><year>1989</year>; V/6: Die Ministerien Erzherzog Rainer und Mensdorff, 4. Mai 1863 – 12. Oktober 1863, bearbeitet von Thomas Kletečka und Klaus Koch, mit einem Vorwort von Helmut Rumpler <address>Wien</address><year>1989</year>; V/7: Die Ministerien Erzherzog Rainer und Mensdorff, 15. Oktober 1863 – 23. Mai 1864, bearbeitet von Thomas Kletečka und Klaus Koch, mit einem Vorwort von Helmut Rumpler <address>Wien</address><year>1992</year>; V/8: Die Ministerien Erzherzog Rainer und Mensdorff, 25. Mai 1864 – 26. November 1864, bearbeitet und eingeleitet von Stefan Malfèr <address>Wien</address><year>1994</year>; V/9: Die Ministerien Erzherzog Rainer und Mensdorff, 9. Dezember 1864 – 11. Juli 1865, bearbeitet und eingeleitet von Stefan Malfèr <address>Wien</address><year>1997</year>; VI/1: Das Ministerium Belcredi, 29. Juli 1865 –26. März 1866, bearbeitet von Horst Brettner-Messler, mit einer Einleitung von Friedrich Engel-Janosi <address>Wien</address><year>1971</year>; VI/2: Das Ministerium Belcredi, 8. April 1866 – 6. Februar 1867, bearbeitet von Horst Brettner-Messler, mit einer Einleitung von Friedrich Engel-Janosi <address>Wien</address><year>1973</year>.
@@ -794,11 +794,11 @@ Béla Pálmány (Hg.), Az 1848-1849. évi első népképviseleti országgyűlés
 <name>Pfeiffer</name> Ida, Meine zweite Weltreise. 4 Teile in 2 Bde. <address>Wien</address><year>1856</year>.
 
 5. Zeitungen und Zeitschriften
-<name>Allgemeine österreichische Gerichts-Zeitung</name> 1851.
-<name>Oesterreichische Volkszeitung</name> 1850.
-<name>Preußischer Staatsanzeiger</name> 1850.
-<name>Wanderer</name> 1850.
-<name>Wiener Zeitung</name> 1850, 1851.
+<name>Allgemeine österreichische Gerichts-Zeitung 1851</name>.
+<name>Oesterreichische Volkszeitung 1850</name>.
+<name>Preußischer Staatsanzeiger 1850</name>.
+<name>Wanderer 1850</name>
+<name>Wiener Zeitung 1850, 1851</name>.
 
 6. Sekundärliteratur
 <name>Allmayer-Beck</name> Johann Christoph, Die bewaffnete Macht in Staat und Gesellschaft. In: Adam Wandruszka/Peter Urbanitsch (Hg.), Die Habsburgermonarchie 1848-1918, Bd. V: Die bewaffnete Macht <address>Wien</address><year>1987</year> 1-141.
@@ -823,11 +823,11 @@ Beer Adolf, Die österreichische Handelpolitik im neunzehnten Jahrhundert <addre
 <name>Faske</name> Michael, Anton Ritter von Schmerling 1805-1893 <address>iur. Diss. Innsbruck</address><year>1999</year>.
 <name>Friedjung</name> Heinrich, Österreich von 1848 bis 1860, 2 Bde. (Stuttgart/Berlin <edition>2</edition><year>1912</year>).
 <name>Frodl</name> Walter, Idee und Wirklichkeit. Das Werden der staatlichen Denkmalpflege in Österreich <series>Studien zu Denkmalschutz und Denkmalpflege</series><number>12</number><address>Wien/Köln/Graz</address><year>1988</year>.
-<name>Gergely</name> András, Az 1848-as magyar polgári államszervezet [Der ungarische bürgerliche Staatsorganismus von 1848]. In.: Ferenc Pölöskei – György Ránki (Hg.) : A magyarországi polgári államrendszerek [Ungarische bürgerliche Staatssysteme] <address>Budapest</address><year>1981</year> 55-56.
+<name>Gergely</name> András, Az 1848-as magyar polgári államszervezet [Der ungarische bürgerliche Staatsorganismus von 1848]. In: Ferenc Pölöskei – György Ránki (Hg.) : A magyarországi polgári államrendszerek [Ungarische bürgerliche Staatssysteme] <address>Budapest</address><year>1981</year> 55-56.
 <name>Girardi</name> Margarete, Das Palais Rasumofsky. Geschichte und Schicksale eines Alt-Wiener Palastes <address>Wien</address><year>1937</year>.
 <name>Gottas</name> Friedrich, Die Frage der Protestanten in Ungarn in der Ära des Neoabsolutismus. Das ungarische Protestantenpatent vom 1. September 1859 <series>Buchreihe der Südostdeutschen Historischen Kommission</series><number>14</number><address>München</address><year>1965</year>.
 <name>Gschließer</name> Oswald, Zur Geschichte des stehenden Heeres in Tirol. III. Die Zeit von 1848 bis 1860. In: Veröffentlichungen des Museum Ferdinandeum in Innsbruck 38 (1958) 101- 205.
-<name>Grössing</name>,Helmut/Funk, Ernst-Ulrich/ Sauer, Manfred/Binder, Johannes <address>Hrsg.), Rot-Weiß-Rot auf blauen Wellen. 150 Jahre DDSG (Wien</address><year>1979</year>.
+<name>Grössing</name>,Helmut/Funk, Ernst-Ulrich/ Sauer, Manfred/Binder, Johannes (Hg.), Rot-Weiß-Rot auf blauen Wellen. 150 Jahre DDSG <address>Wien</address><year>1979</year>.
 <name>Gürtler</name> Ilse, Die Auflösung der siebenbürgischen Militärgrenze <address>phil. Diss. Wien</address><year>1947</year>. 
 <name>Ham</name> Rüdiger, Bundesintervention und Verfassungsrevision. Der Deutsche Bund und die kurhessische Verfassungsfrage 1850/52 <series>Quellen und Forschungen zur hessischen Geschichte</series><number>138</number><address>Darmstadt-Marburg</address><year>2004</year>.
 <name>Hartl</name> Friedrich, Das Wiener Kriminalgericht. Strafrechtspflege vom Zeitalter der Aufklärung bis zur österreichischen Revolution <series>Wiener rechtsgeschichtliche Arbeiten</series><number>X</number><address>Wien/Köln/Graz</address><year>1973</year>.
@@ -917,7 +917,7 @@ BIBLIOGRAPHIE
 <name>K</name>. k. Armee-Verordnungsblatt 1851.
 <name>Landesgesetz- und Regierungsblatt für das Erzherzogthum Oesterreich unter der Enns 1850</name>.
 <name>Landes-Gesetz- und Regierungsblatt für das Kronland Böhmen 1851</name>.
-<name>Landesgesetz- und Regierungsblatt für das Kronland Kroatien und Slavonien</name> 1851.
+<name>Landesgesetz- und Regierungsblatt für das Kronland Kroatien und Slavonien 1851</name>.
 <name>Landesgesetz- und Regierungsblatt für das Kronland Ungarn 1851</name>.
 <name>Norma relata ad exercitium Juris statarii observanda</name>. in homagiale obsequium benigne resolutionis de dato 18-rae februarii 1837 <address>Budae</address><year>1837</year>.
 <name>Preißler</name> Adalbert, Allgemeiner vollständiger Zoll-Tarif für die Ein-, Aus- und Durchfuhr der Waaren in den Oesterreichischen Kaiser-Staat <address>Prag</address><year>1852</year>.
@@ -946,7 +946,7 @@ d’Elvert, Christian, Geschichte der Studien-, Schul- und Erziehungs-Anstalten 
 <name>Kreutz</name> Johann und Louise (Hg.), Der Dom des Heil. Markus in Venedig, dargestellt in seinen hist. Mosaiken, skulpierten Ornamenten und architekton. Ansichten <address>Venedig</address><year>1843</year>.
 
 5. Zeitungen und Zeitschriften
-<name>Die Presse</name> 1852.
+<name>Die Presse 1852</name>.
 <name>Wiener Zeitung</name> 1851, 1852.
 
 6. Sekundärliteratur
