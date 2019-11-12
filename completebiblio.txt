@@ -1,6 +1,6 @@
-Bibliographie
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><author>Adamek, Silvia</author><title>Der Lehrkörper der philosophischen Fakultät von 1800 bis 1848 </title><howpublished>phil. Diss.</howpublished><address>Wien</address><year>1984</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Allgemeine Deutsche Biographie</title><shorttitle>Allgemeine Deutsche Biographie</shorttitle><editor>Historischen Kommission bei der Königlichen Bayerischen Akademie der Wissenschaften</editor><volumes>56 Bde.</volumes><address>Leipzig</address><year>1875-1912</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Bittner, Ludwig</author><title>Chronologisches Verzeichnis der österreichischen Staatsverträge</title><volumes>4 Bde</volumes><series>Veröffentlichungen der Kommission für Neuere Geschichte Österreichs</series><number>1, 8, 13 und 15</number><address>Wien</address><year>1903-1917</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -24,7 +24,7 @@ Bibliographie
 <book><author>Winckler, Johann</author><title>Die Periodische Presse Oesterreichs. Eine historisch-statistische Studie </title><address>Wien</address><year>1875</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Österreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Acta et Decreta Sacrorum Concilium Regentiorum. Collectio Lacensis.</title><shorttitle>Acta et Decreta Sacrorum Concilium Regentiorum</shorttitle><volumes>7 Bde.</volumes><address>Freiburg i. Breisgau</address><year>1870-1890</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Allgemeines Reichsgesetz- und Regierungsblatt für das Kaiserthum Österreich</title><shorttitle>Allgemeines Reichsgesetz- und Regierungsblatt für das Kaiserthum Österreich</shorttitle><address>Wien</address><year>1849-1852</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Articuli Diaetales Anni Mdcccxliv</title><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -50,7 +50,7 @@ Bibliographie
 <author>Verhandlungen des Österreichischen Reichstages, nach der stenographischen Aufnahme</author><volumes>5 Bde.</volumes><address>Wien</address><year>1848/1849</year><keywords>2. Gesetzes- und Aktensammlungen</keywords>.
 <title>Verordnungsblatt für Posten, Eisenbahnbetrieb und Telegraphen 1850</title><shorttitle>Verordnungsblatt für Posten</shorttitle><volumes>3 Bd.</volumes><keywords>2. Gesetzes- und Aktensammlungen</keywords>.
 
-3. Memoiren und Tagebücher
+
 <book><author>Dahlerup, Hans Birch Freiherr v.</author><title>In österreichischen Diensten</title><volumes>2 Bde.</volumes><address>Berlin</address><year>1911/1912</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Görgei, Arthur</author><title>Mein Leben und Wirken in Ungarn</title><volumes>2 Bde.</volumes><address>Leipzig</address><year>1852</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Hübner, Joseph Alexander Graf v.</author><title>Ein Jahr meines Lebens 1848-1849 </title><address>Leipzig</address><year>1891</year><keywords>3. Memoiren und Tagebücher</keywords></book>
@@ -59,7 +59,7 @@ Bibliographie
 <book><editor>Mayr, Josef Karl</editor><title>Das Tagebuch des Polizeiministers Kempen von 1848 bis 1859 </title><address>Wien/Leipzig</address><year>1931</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Tomek, Václav Vladivoj</author><title>Paměti z mého života [Erinnerungen aus meinem Leben]</title><volumes>2 Bde.</volumes><address>Praha</address><year>1904/1905</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 
-4. Zeitgenössische Publizistik
+
 <book><author>Einhorn, Ignaz</author><title>Die Revolution und die Juden in Ungarn </title><address>Leipzig</address><year>1851</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Hübner, Otto</author><title>Oesterreichs Finanzlage und seine Hilfsquellen </title><address>Wien</address><year>1849</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Janotyckh v., Adlerstein Johann</author><title>Chronologisches Tagebuch der magyarischen Revolution und zwar bis zur ersten Wiederbesetzung Pesth-Ofens durch die k. k. Truppen</title><volumes>3 Bde.</volumes><address>Wien</address><year>1851</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
@@ -68,7 +68,7 @@ Bibliographie
 <book><author>Pridham, Charles</author><title>Kossuth and Magyar Land, or, Personal Adventures during the War in Hungary </title><address>London</address><year>1851</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Sommaruga, Franz</author><title>Die Grundzüge der Gerichtsverfassung für die Länder der österreichischen Monarchie </title><address>Wien</address><year>1849</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 
-5. Zeitungen und Zeitschriften
+
 <book><title>Constitutionelle Allgemeine Zeitung von Böhmen (1848)</title><shorttitle>Constitutionelle Allgemeine Zeitung von Böhmen</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Constitutionelles Blatt aus Böhmen (1849)</title><shorttitle>Constitutionelles Blatt aus Böhmen</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Frankfurter Zeitung (1849)</title><shorttitle>Frankfurter Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
@@ -80,7 +80,7 @@ Bibliographie
 <book><title>Wiener Volkszeitung (1849)</title><shorttitle>Wiener Volkszeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung</title><year>1849, 1933</year><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 
-6. Sekundärliteratur
+
 <book><author>Andics, Erzsébet</author><title>A Habsburgok és Romanov szövetsége. Az 1849.évi magyarországi cári intervenció diplomáciai elötörténete [Das Bündnis der Habsburger und der Romanow. Die diplomatische Vorgeschichte der zaristischen Intervention in Ungarn im Jahre 1849]</title><address>Budapest</address><year>1961</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Andics, Erzsébet</author><title>Das Bündnis Habsburg-Romanow. Vorgeschichte der zaristischen Intervention in Ungarn im Jahre 1849 </title><address>Budapest</address><year>1963</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Adrianyi, G.</author><title>Die Stellung der ungarischen Kirche zum österreichischen Konkordat von 1855 </title><address>Rom</address><year>1963</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -170,8 +170,7 @@ Bibliographie
 <book><author>Leisching, Peter</author><title>Die Bischofskonferenzen. Beiträge zu ihrer Rechtsgeschichte, mit besonderer Berücksichtigung ihrer Entwicklung in Österreich </title><series>Wiener Rechtsgeschichtliche Arbeiten</series><number>7</number><address>Wien/München</address><year>1963</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Leisching, Peter</author><title>Die römisch-katholische Kirche in Cisleithanien. </title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, Bd. IV: Die Konfessionen </booktitle><address>Wien</address><year>1985</year><pages>1-247</pages><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Lentze, Hans</author><title>Die Universitätsreform des Ministers Graf Leo Thun-Hohnestein </title><series>Sitzungsberichte der Österreichischen Akademie der Wissenschaften, philosophisch-historische Klasse</series><number>239/2</number><address>Wien</address><year>1962</year><keywords>6. Sekundärliteratur</keywords></book>
-<incollection><author>Lepšík, Josef</author><title>Stavy obležení v Čechách 1848-1853 [Belagerungszustand in Böhmen 1848-1853]</title><booktitle>Rozpravy Československé akademie věd 70 (1960)</booktitle><keywords>6. Sekundärliteratur</keywords></incollection>
-Heft 12.
+<incollection><author>Lepšík, Josef</author><title>Stavy obležení v Čechách 1848-1853 [Belagerungszustand in Böhmen 1848-1853]</title><booktitle>Rozpravy Československé akademie věd 70 (1960) Heft 12</booktitle><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Lienbacher, Georg</author><title>Historisch-genetische Erläuterungen des österreichischen Pressegesetzes und des Gesetzes über das Strafverfahren in Preßsachen vom 17. Dezember 1862 sowie der Amts-Instruction zu beiden Gesetzen </title><address>Wien</address><year>1863</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Lippert, Stefan</author><title>Felix Fürst zu Schwarzenberg. Eine politische Biographie </title><address>Historische Mitteilungen. Im Auftrag der Ranke Gesellschaft, Vereinigung für Geschichte im öffentlichen Leben e.V. Beiheft 21, Stuttgart</address><year>1998</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Loesche, Georg</author><title>Von der Toleranz zur Parität in Österreich. 1781-1861 </title><address>Leipzig</address><year>1911</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -219,7 +218,7 @@ Heft 12.
 <book><author>Schmidt-Brentano, Antonio</author><title>Die Armee in Österreich. Militär, Staat und Gesellschaft 1848-1867 </title><series>Militärgeschichtliche Studien</series><number>20</number><address>Boppard am Rhein</address><year>1975</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Schopf, Franz Joseph</author><title>Die Jagdverfassung, das Jagdrecht und die Jagdpolizei </title><address>Pest</address><year>1858</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Seliger, Maren and Ucakar, Karl</author><title>Wien. Politische Geschichte. Teil 1: 1740-1895</title><address>Wien</address><year>1985</year><keywords>6. Sekundärliteratur</keywords></book>
-Šidak Jaroslav, Studije iz hrvatske povijesti za revolucije 1848-49 [Studien zur kroatischen Geschichte in den Revolutionsjahren 1848-49] <address>Zagreb</address><year>1979</year>.
+<book><author>Šidak, Jaroslav</author><title>Studije iz hrvatske povijesti za revolucije 1848-49 [Studien zur kroatischen Geschichte in den Revolutionsjahren 1848-49]</title><address>Zagreb</address><year>1979</year></incollection>
 <book><author>Sieghart, Rudolf</author><title>Die öffentlichen Glückspiele </title><address>Wien</address><year>1899</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Silvestri, Gerhard</author><title>Die deutschsprachigen Gesetzblätter Österreichs </title><address>Berg am Starnberger See</address><year>1967</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Simány, Tibor</author><title>Julius Graf Andrássy. Baumeister der Doppelmonarchie. Mitstreiter Bismarcks </title><address>Wien</address><year>1990</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -259,9 +258,9 @@ Heft 12.
 <book><author>Zorzi, Alvise</author><title>Österreichs Venedig. Das letzte Kapitel der Fremdherrschaft 1798 bis 1866 </title><address>Düsseldorf</address><year>1990</year><keywords>6. Sekundärliteratur</keywords></book>
 <article><author>Zwiedineck, Hans v.</author><title>Österreich und der deutsche Bundesstaat. Ein Beitrag zur deutschen Verfassungsgeschichte (1848-1849)</title><journal>MIÖG</journal><number>24</number><year>(1903)</year><pages>283-301</pages><keywords>6. Sekundärliteratur</keywords></article>
 
-BIBLIOGRAPHIE
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><author>Błonski, Justin</author><title>Der österreichische Civil-Staatsdienst. Ein systematisches Handbuch, enthaltend sämmtliche, die Anstellung im österr. Civil-Staatsdienst, sowie die dadurch begründeten Rechte und Pflichten betreffenden Bestimmungen, mit Inbegriff der Pensions- und Disciplinarvorschriften, sammt den einschlägigen Erkenntnissen des Reichsgerichtes und des Verwaltungsgerichtshofes </title><address>Wien</address><year>1882</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Czeike, Felix</author><title>Historisches Lexikon Wien</title><volumes>5 Bde.</volumes><address>Wien</address><year>1992-1997</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Dizionario del Risorgimento Nazionale</title><volumes>5 Bde.</volumes><address>Milano</address><year>1930-1937</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -284,7 +283,7 @@ BIBLIOGRAPHIE
 <book><author>Winckler, Johann</author><title>Die Periodische Presse Oesterreichs. Eine historisch-statistische Studie </title><address>Wien</address><year>1875</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Oesterreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Acta et Decreta Sacrorum Concilium Regentiorum. Collectio Lacensis</title><shorttitle>Acta et Decreta Sacrorum Concilium Regentiorum</shorttitle><volumes>7 Bde.</volumes><address>Freiburg i. Breisgau</address><year>1870-1890</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Allgemeines Reichsgesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><author>Astl, Heinrich</author><title>Alphabetische Sammlung aller politischen und der einschlägigen Polizei-, Justiz-, Militär-, Berg-, Finanz-, Unterrichts-, geistlichen, Agricultur-, Handels-, Gewerbe-, Bau-, Communications-, Post-, Telegraphen-, Rechnungscontrol-, Theater-, Sanitäts-, Gemeinde- & Beamten-Gesetze des Kaiserthums Oesterrich</title><volumes>6 Bde.</volumes><address>Prag</address><year>1864-1869</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -329,13 +328,13 @@ BIBLIOGRAPHIE
 <book><author>Würth, Joseph v.</author><title>Die österreichische Strafprozeßordnung vom 17. Jänner 1850 </title><address>Wien</address><year>1851</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><author>Zimmermann, Franz</author><title>Rechtsurkunden der Evangelischen in Oesterreich 1815-1920 </title><address>Steyr</address><year>1929</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 
-3. Memoiren und Tagebücher
+
 <book><author>Dahlerup, Hans Birch Freiherr v.</author><title>In österreichischen Diensten</title><volumes>2 Bde.</volumes><address>Berlin</address><year>1911/1912</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Delbrück, Rudolph v.</author><title>Lebenserinnerungen</title><volumes>2 Bde.</volumes><address>Leipzig</address><year>1905</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Schneider, Carl Samuel</author><title>Erzählungen eines alten Pastors aus seinem Leben </title><address>Bielitz</address><year>1880</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Smetana, Augustin</author><title>Geschichte eines Excommunicirten. Hrsg. v. Alfred Meißner </title><address>Leipzig</address><year>1863</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 
-4. Zeitgenössische Publizistik
+
 <book><author>Bauhofer, Georg</author><title>Geschichte der evangelischen Kirche in Ungarn vom Anfang der Reformation bis 1850 mit Rücksicht auf Siebenbürgen </title><address>Berlin</address><year>1854</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Blaschke, Johann</author><title>Die österreichische Jurisdictionsnorm in bürgerlichen Rechtsachen vom 18. Juni 1850, mit Berücksichtigung der neuesten darauf Bezug habenden Gesetze </title><address>Graz</address><year>1850</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Brzezina, Friedrich</author><title>Praktische Anwendung der prov. Gesetze vom 28. Dezbr. 1849 und 16. August 1850 über das Grundbuchverfahren und vom 2. August 1850 über die Stämpel- und Taxgebühren im Kronlande Ungarn </title><address>Preßburg</address><year>1851</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
@@ -347,7 +346,7 @@ BIBLIOGRAPHIE
 <book><author>Somssich, Paul v.</author><title>Das legitime Recht Ungarns und seines Königs </title><address>Wien</address><year>1850</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Szemere, Bartholomäus</author><title>Graf Ludwig Batthyány, Arthur Görgei, Ludwig Kossuth. Charakterskizzen aus dem ungarischen Freiheitskriege</title><volumes>3 Bde.</volumes><address>Hamburg</address><year>1853</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 
-5. Zeitungen und Zeitschriften
+
 <book><title>Allgemeine Zeitung des Judenthums 1850</title><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Brünner Zeitung (1850)</title><shorttitle>Brünner Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Czas (1850)</title><shorttitle>Czas</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
@@ -362,7 +361,7 @@ BIBLIOGRAPHIE
 <book><title>Pester Zeitung (1850)</title><shorttitle>Pester Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung (1850)</title><shorttitle>Wiener Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 
-6. Sekundärliteratur
+
 <book><author>Adriányi, Gabor</author><title>Die Stellung der ungarischen Kirche zum österreichischen Konkordat von 1855 </title><address>Rom</address><year>1963</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Allmayer-Beck, Johann Christoph</author><title>Die bewaffnete Macht in Staat und Gesellschaft. </title><editor>Adam Wandruszka/Peter Urbanitsch</editor><booktitle>Die Habsburgermonarchie 1848-1918, Bd. V: Die bewaffnete Macht </booktitle><address>Wien</address><year>1987</year><pages>1-141</pages><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Alter, Wilhelm</author><title>Die auswärtige Politik der ungarischen Revolution 1848/49 </title><address>Berlin</address><year>1912</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -499,7 +498,7 @@ BIBLIOGRAPHIE
 <incollection><author>Otruba, Gustav</author><title>Zur Geschichte des Fernmeldewesens in Österreich</title><booktitle>Technologisches Gewerbemuseum. Jahresbericht 1955/56, 15-43</booktitle><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Ott, Emil</author><title>Geschichte und Grundlehren des österreichischen Rechtsfürsorgeverfahrens </title><address>Wien</address><year>1906</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Pasetti Ritter v., Friedenburg Florian</author><title>Darstellung des Theißregulierungs-Unternehmens seit dem Beginne der Arbeiten im Jahre 1846 bis zum Schlusse des Jahres 1860 </title><address>Wien</address><year>1862</year><keywords>6. Sekundärliteratur</keywords></book>
-Pólya Jakob, Geschichte der Entstehung und des fünfzigjährigen Bestandes der Pester Ungarischen Commerzial Bank <address>Budapest</address><year>1892</year>.
+<book><author>Pólya, Jakob</author><title>Geschichte der Entstehung und des fünfzigjährigen Bestandes der Pester Ungarischen Commerzial Bank</title><address>Budapest</address><year>1892</year></book>
 <incollection><author>Posch, Andreas</author><title>Die deutschkatholische Bewegung in Steiermark</title><booktitle>Jahrbuch der österreichischen Leo-Gesellschaft (1928) 72-117</booktitle><keywords>6. Sekundärliteratur</keywords></incollection>
 <incollection><author>Posch, Andreas</author><title>Die deutsch-katholische Gemeinde in Wien</title><booktitle>Mitteilungen des Österreichischen Staatsarchivs, Ergänzungsband III (Festschrift zur Feier des zweihundertjährigen Bestandes des Haus-, Hof- und Staatsarchives (1951) 269-282</booktitle><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Pressburger, Siegfried</author><title>Das österreichische Notenistitut 1816-1966 </title><volumes>2 Teile in 5 Bänden </volumes><address>Wien</address><year>1959-1972</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -562,9 +561,9 @@ Pólya Jakob, Geschichte der Entstehung und des fünfzigjährigen Bestandes der 
 <book><author>Zimmermann, Franz</author><title>Das Ministerium Thun für die Evangelischen im Gesamtstaate Oesterreich 1849-1860 </title><address>Wien</address><year>1926</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Zorzi, Alvise</author><title>Österreichs Venedig. Das letzte Kapitel der Fremdherrschaft 1798 bis 1866 </title><address>Düsseldorf</address><year>1990</year><keywords>6. Sekundärliteratur</keywords></book>
 
-BIBLIOGRAPHIE
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><author>Czeike, Felix</author><title>Historisches Lexikon Wien</title><volumes>5 Bde.</volumes><address>Wien</address><year>1992-1997</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Gothaischer genealogischer Hof-Kalender nebst diplomatisch-statistischem Jahrbuche auf das Jahr 1852</title><address>Gotha</address><year>1852</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><editor>Hamann, Brigitte</editor><title>Die Habsburger. Ein biographisches Lexikon </title><address>Wien</address><year>1988</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -572,13 +571,12 @@ BIBLIOGRAPHIE
 <book><title>Hof- und Staats-Handbuch des Kaiserthumes Österreich für das Jahr 1858</title><address>Wien</address><year>1858</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><editor>Mayerhofer, Ernst and Pace, Anton</editor><title>Handbuch für den politischen Verwaltungsdienst in den im Reichsrate vertretenen Königreichen und Ländern mit besonderer Berücksichtigung der diesen Ländern gemeinsamen Gesetze und Verordnungen</title><volumes>8 Bde. und 2 Ergänzungsbde. 1909 und 1913</volumes><address>Wien</address><edition>5</edition><year>1895-1903</year>, <address>Wien</address><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Neue Deutsche Biographie</title><editor>Historischen Kommission bei der Bayerischen Akademie der Wissenschaften</editor> <volumes>[bis jetzt] 22 Bde.</volumes><address>Berlin</address><year>1953-2005</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
-Österreichisches Biographisches Lexikon 1815-1950<editor>Historischen Kommission der Österreichischen Akademie der Wissenschaften</editor> <volumes>[bis jetzt] 12 Bände , </volumes><address>Wien/Graz/Köln</address><year>1957-2004</year>.
 <book><author>Polski Słownik Biograficzny, [Polnisches Biographisches Lexikon]</author><title>hg. von Polska Akademia Nauk, </title><volumes>[bis jetzt] 41 Bde.</volumes><address>Wrocław/Warszawa/Gdansk/Łodź</address><year>1935-2002</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Püttlingen, Johann Freiherr Vesque v.</author><title>Übersicht der österreichischen Staatsverträge seit Maria Theresia bis auf die neueste Zeit mit historischen Erläuterungen </title><address>Wien</address><year>1868</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Winckler, Johann</author><title>Die Periodische Presse Oesterreichs. Eine historisch-statistische Studie </title><address>Wien</address><year>1875</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Oesterreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Allgemeines Reichsgesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><author>Astl, Heinrich</author><title>Alphabetische Sammlung aller politischen und der einschlägigen Polizei-, Justiz-, Militär-, Berg-, Finanz-, Unterrichts-, geistlichen, Agricultur-, Handels-, Gewerbe-, Bau-, Communications-, Post-, Telegraphen-, Rechnungscontrol-, Theater-, Sanitäts-, Gemeinde- & Beamten-Gesetze des Kaiserthums Oesterreich</title><volumes>6 Bde.</volumes><address>Prag</address><year>1864-1869</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Bernatzik, Edmund</editor><title>Die österreichischen Verfassungsgesetze (Wien </title><edition>2</edition><year>1911</year>)<keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -608,17 +606,17 @@ BIBLIOGRAPHIE
 <title>Verordnungsblatt für Posten, Eisenbahnbetrieb und Telegraphen</title><shorttitle>Verordnungsblatt für Posten</shorttitle><volumes>3 Bde.</volumes><address>Wien</address><year>1849-1850</year><keywords>2. Gesetzes- und Aktensammlungen</keywords>
 <book><author>Würth, Joseph v.</author><title>Die österreichische Strafprozeßordnung vom 17. Jänner 1850 </title><address>Wien</address><year>1851</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 
-3. Zeitgenössische Publizistik
+
 <book><author>Blaschke, Johann</author><title>Die österreichische Jurisdictionsnorm in bürgerlichen Rechtsachen vom 18. Juni 1850, mit Berücksichtigung der neuesten darauf Bezug habenden Gesetze </title><address>Graz</address><year>1850</year><keywords>3. Zeitgenössische Publizistik</keywords></book>
 <book><author>Brzezina, Friedrich</author><title>Praktische Anwendung der prov. Gesetze vom 28. Dezbr. 1849 und 16. August 1850 über das Grundbuchverfahren und vom 2. August 1850 über die Stämpel- und Taxgebühren im Kronlande Ungarn </title><address>Preßburg</address><year>1851</year><keywords>3. Zeitgenössische Publizistik</keywords></book>
 
-4. Zeitungen und Zeitschriften
+
 <book><title>Allgemeine Zeitung des Judenthums 1850</title><keywords>4. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Deutsche Reform (1850)</title><shorttitle>Deutsche Reform</shorttitle><keywords>4. Zeitungen und Zeitschriften</keywords></book>
 <book><title>The Morning Chronicle (1850)</title><shorttitle>The Morning Chronicle</shorttitle><keywords>4. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung (1850)</title><shorttitle>Wiener Zeitung</shorttitle><keywords>4. Zeitungen und Zeitschriften</keywords></book>
 
-5. Sekundärliteratur
+
 <book><author>Bachinger, Karl</author><title>Das Verkehrswesen. </title><editor>Adam Wandruszka/Peter Urbanitsch</editor><booktitle>Die Habsburgermonarchie 1848-1918, Bd. I: Die wirtschaftliche Entwicklung </booktitle><address>Wien</address><year>1973</year><pages>278-322</pages><keywords>5. Sekundärliteratur</keywords></book>
 <book><author>Bammer, Armin</author><title>Theater und Verfassung. Eine historisch-systematische Untersuchung der (verfassungs)rechtlichen Stellung der Bundestheater unter besonderer Berücksichtigung der Kunstfreiheit und der Kompetenzverteilung </title><howpublished>phil. Diss.</howpublished><address>Wien</address><year>1990</year><keywords>5. Sekundärliteratur</keywords></book>
 <book><author>Barany, George</author><title>Ungarns Verwaltung: 1848-1918. </title><editor>Adam Wandruszka/Peter Urbanitsch</editor><booktitle>Die Habsburgermonarchie 1848-1918, Bd. II: Verwaltung und Rechtswesen </booktitle><address>Wien</address><year>1975</year><pages>306-468</pages><keywords>5. Sekundärliteratur</keywords></book>
@@ -668,7 +666,6 @@ BIBLIOGRAPHIE
 <incollection><author>Leonhard, Otto</author><title>Aus der Geschichte des österreichischen Obersten Gerichtshofes</title><booktitle>Festschrift zur Hundertjahrfeier des österreichischen Obersten Gerichtshofes</booktitle><address>Wien</address><year>1950</year><pages>163-211</pages><keywords>5. Sekundärliteratur</keywords></incollection>
 <book><author>Lippert, Stefan</author><title>Felix Fürst zu Schwarzenberg. Eine politische Biographie </title><series>Historische Mitteilungen. Im Auftrage der Ranke-Gesellschaft, Vereinigung für Geschichte im öffentlichen Leben e.V., Beiheft</series><number>21</number><address>Stuttgart</address><year>1998</year><keywords>5. Sekundärliteratur</keywords></book>
 <book><author>Loesche, Georg</author><title>Geschichte des Protestantismus im vormaligen und im neuen Österreich </title><address>Wien</address><year>1930</year><keywords>5. Sekundärliteratur</keywords></book>
-Luchterhandt Manfred, Schwarzenberg und die preußische Einigungspolitik nach der Revolution 1848-1951. <editor>Michael Gehler/Rainer F. Schmidt/Harm-Hinrich Brandt/Rolf Steininger</editor><booktitle>Ungleiche Partner? Österreich und Deutschland in ihrer gegenseitigen Wahrnehmung. Historische Analyse und Vergleiche aus dem 19. und 20. Jahrhundert, </booktitle><series>Historische Mitteilungen, Beihefte Bd.</series><number>15</number><address>Stuttgart</address><year>1996</year><pages>135-170</pages>.
 <book><editor>Mai, Gunther</editor><title>Die Erfurter Union und das Erfurter Unionsparlament 1850</title><address>Köln/Weimar/Wien</address><year>2000</year><keywords>5. Sekundärliteratur</keywords></book>
 <incollection><author>Malfèr, Stefan</author><title>Una costituzione per il Regno Lombardo-Veneto. Speranze e fallimenti 1848-1850</title><booktitle>La ”primavera liberale” nella terraferma veneta 1848-1849, a cura di Alba Lazzaretto Zanolo</booktitle><address>Venezia</address><year>2000</year><pages>113-127</pages><keywords>5. Sekundärliteratur</keywords></incollection>
 <book><author>Mark, Rudolf A.</author><title>Galizien unter österreichischer Herrschaft. Verwaltung-Kirche-Bevölkerung </title><series>Historische und landeskundliche Ostmitteleuropa-Studien</series><number>13</number><address>Marburg</address><year>1994</year><keywords>5. Sekundärliteratur</keywords></book>
@@ -683,7 +680,6 @@ Luchterhandt Manfred, Schwarzenberg und die preußische Einigungspolitik nach de
 <book><author>Ott, Emil</author><title>Geschichte und Grundlehren des österreichischen Rechtsfürsorgeverfahrens </title><address>Wien</address><year>1906</year><keywords>5. Sekundärliteratur</keywords></book>
 <book><author>Pasetti Ritter v., Friedenburg Florian</author><title>Darstellung des Theißregulierungs-Unternehmens seit dem Beginne der Arbeiten im Jahre 1846 bis zum Schlusse des Jahres 1860 </title><address>Wien</address><year>1862</year><keywords>5. Sekundärliteratur</keywords></book>
 <incollection><author>Péter, László</author><title>Die Verfassungsentwicklung in Ungarn</title><editor>Helmut and Rumpler/Peter Urbanitsch</editor><booktitle>Die Habsburgermonarchie 1848-1918, Bd. VII/1: Verfassung und Parlamentarismus, Verfassungsrecht, Verfassungswirklichkeit, zentrale Repräsentativkörperschaften</booktitle><address>Wien</address><year>2000</year><pages>239-540</pages><keywords>5. Sekundärliteratur</keywords></incollection>
-Pólya Jakob, Geschichte der Entstehung und des fünfzigjährigen Bestandes der Pester Ungarischen Commerzial Bank <address>Budapest</address><year>1892</year>.
 <incollection><author>Posch, Andreas</author><title>Die deutschkatholische Bewegung in Steiermark</title><booktitle>Jahrbuch der österreichischen Leo-Gesellschaft (1928) 72-117</booktitle><keywords>5. Sekundärliteratur</keywords></incollection>
 <incollection><author>Posch, Andreas</author><title>Die deutsch-katholische Gemeinde in Wien</title><booktitle>Mitteilungen des Österreichischen Staatsarchivs, Ergänzungsband III, Festschrift zur Feier des zweihundertjährigen Bestandes des Haus-, Hof- und Staatsarchives (1951) 269-282</booktitle><keywords>5. Sekundärliteratur</keywords></incollection>
 <book><author>Pressburger, Siegfried</author><title>Das österreichische Noteninstitut 1816-1966, </title><volumes>2 Teile in 5 Bänden </volumes><address>Wien</address><year>1959-1972</year><keywords>5. Sekundärliteratur</keywords></book>
@@ -713,22 +709,22 @@ Pólya Jakob, Geschichte der Entstehung und des fünfzigjährigen Bestandes der 
 <book><title>Die Witwen- und Waisen-Pensions-Gesellschaft des juridischen Doctoren-Collegiums in Wien. Denkschrift anlässlich ihres hundertfünfzigjährigen Bestandes. 1760-1910 </title><shorttitle>Die Witwen- und Waisen-Pensions-Gesellschaft des juridischen Doctoren-Collegiums in Wien</shorttitle><address>Wien</address><year>1910</year><keywords>5. Sekundärliteratur</keywords></book>
 <book><author>Zorzi, Alvise</author><title>Österreichs Venedig. Das letzte Kapitel der Fremdherrschaft 1798 bis 1866 </title><address>Düsseldorf</address><year>1990</year><keywords>5. Sekundärliteratur</keywords></book>
 
-BIBLIOGRAPHIE
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><author>Czeike, Felix</author><title>Historisches Lexikon Wien</title><volumes>5 Bde.</volumes><address>Wien</address><year>1992-1997</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
-Enciklopedija Jugoslavije<volumes>8 Bde.</volumes><address>Zagreb</address><year>1955-1971</year>.
+
 <book><title>Gothaischer genealogischer Hof-Kalender nebst diplomatisch-stastistischem Jahrbuche auf das Jahr 1852</title><address>Gotha</address><year>1852</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Magyar életrajzi lexikon [Ungarisches biographisches Lexikon]</title><shorttitle>Magyar életrajzi lexikon</shorttitle><volumes>3 Bde.</volumes><address>Budapest2</address><year>1982</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <author>Magyar Írók És Munkái, [Das Leben und Werk der ungarischen Schriftsteller] hg. v. Szinneyi Jószef</author><volumes>14 Bde.</volumes><address>Budapest</address><year>1891-1914</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords>
 <book><author>Megerle von Mühlfeld</author><title>Handbuch für alle kaiserlich-königlichen, ständischen und städtischen Beamte, welche die Darstellung aller derselben, dann ihren Witwen und Waisen durch die allerhöchsten Gesetze vom Jahre 1740 bis 1806 zugewiesenen Rechte und vorgezeichneten Verbindlichkeiten enthält, 5 Teile </title><address>Wien</address><year>1809</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Megerle von Mühlfeld</author><title>Handbuch für alle kaiserlich-königlichen, ständischen und städtischen Beamte, welche die Darstellung aller derselben, dann ihren Witwen und Waisen durch die allerhöchsten Gesetze vom Jahre 1740 bis 1806 zugewiesenen Rechte und vorgezeichneten Verbindlichkeiten enthält</title><edition>erweiterte Auflage in 3 Teilen</edition> <address>Wien</address><year>1824-1830</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Oesterreichische National-Encyklopädie oder alphabetische Darlegung der wissenswürdigsten Eigenthümlichkeiten des österreichischen Kaiserthumes</title><volumes>6 Bde.</volumes><address>Wien</address><year>1835-1837</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
-Österreichisches Biographisches Lexikon 1815-1950<editor>Historischen Kommission der Österreichischen Akademie der Wissenschaften</editor> <volumes>[bis jetzt] 12 Bände , </volumes><address>Wien/Graz/Köln</address><year>1957-2004</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords>
+
 <book><editor>Béla Pálmány</editor><title>Az 1848-1849. évi első népképviseleti országgyűlés történeti almanachja [Almanach des ersten, auf Grundlage der Volksvertretung zustande gekommenen Reichstages von 1848-1849]</editor><address>Budapest</address><year>2002</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Püttlingen, Johann Freiherr Vesque v.</author><title>Übersicht der österreichischen Staatsverträge seit Maria Theresia bis auf die neueste Zeit mit historischen Erläuterungen </title><address>Wien</address><year>1868</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Oesterreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Allgemeines Reichsgesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Bernatzik, Edmund</editor><title>Die österreichischen Verfassungsgesetze (Wien </title><edition>2</edition><year>1911</year>)<keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Corpus Juris Hungarici. Magyar törvénytár 1000-1895. Millenium emlékkidás</title><shorttitle>Corpus Juris Hungarici</shorttitle><volumes>14 Bde.</volumes><address>Budapest</address><year>1897-1901</year><shorthand>Cjh.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -748,25 +744,25 @@ Enciklopedija Jugoslavije<volumes>8 Bde.</volumes><address>Zagreb</address><year
 <title>Verzeichniss der Advokaten, Notare und Vertheidiger in Strafsachen in sämmtlichen Kronländern des Kaiserthums Österreich </title><shorttitle>Verzeichniss der Advokaten</shorttitle><address>Wien</address><year>1855</year><keywords>2. Gesetzes- und Aktensammlungen</keywords>
 <article><editor>Zimmermann, Joseph Andreas</editor><title>Die Leiturkunden für Neuordnung der evangelischen Kirche im Gesamtstaat Österreich</title><journal>Deutsche Politische Hefte aus Großrumänien</journal><volume>5</volume><year>1925</year><number>Heft 8-9</number><pages>10-20</pages><keywords>2. Gesetzes- und Aktensammlungen</keywords></article>
 
-3. Memoiren und Tagebücher
+
 <incollection><author>Beer, Adolf</author><title>Kübeck und Metternich. Denkschriften und Briefe</title><booktitle>Denkschriften der kaiserlichen Akademie der Wissenschaften, philosophisch-historische Klasse 45</booktitle><address>Wien</address><year>1897</year><keywords>3. Memoiren und Tagebücher</keywords></incollection>
 <book><editor>Kübeck, Max Freiherr v.</editor><title>Tagebücher des Carl Friedrich Freiherrn Kübeck von Kübau 2 </title><address>Wien</address><year>1909</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Pfeifer, Ida</author><title>Meine zweite Weltreise. </title><volumes>4 Teile in 2 Bden. </volumes><address>Wien</address><year>1856</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><editor>Walter, Friedrich</editor><title>Aus dem Nachlass des Freiherrn Carl Friedrich Kübeck von Kübau. Tagebücher, Briefe, Aktenstücke (1841-1855) </title><series>Veröffentlichungen der Kommission für neuere Geschichte Österreichs</series><number>45</number><address>Graz/Köln</address><year>1960</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 
-4. Zeitgenössische Publizistik
+
 <author>Babarczy, Emmerich v.</author>Bekenntnisse eines Soldaten <address>Wien</address><year>1850</year><keywords>4. Zeitgenössische Publizistik</keywords>
 <book><author>Grimm, Joseph A.</author><title>Die politische Verwaltung im Großfürstenthume Siebenbürgen.</title><volumes>3 Bde.</volumes><address>Hermannstadt</address> <year>1856/57</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Pfeiffer, Ida</author><title>Meine zweite Weltreise. </title><volumes>4 Teile in 2 Bde.</volumes><address>Wien</address><year>1856</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 
-5. Zeitungen und Zeitschriften
+
 <book><title>Allgemeine österreichische Gerichts-Zeitung 1851</title><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Oesterreichische Volkszeitung 1850</title><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Preußischer Staatsanzeiger 1850</title><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wanderer 1850</title><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung 1850, 1851</title><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 
-6. Sekundärliteratur
+
 <book><author>Allmayer-Beck, Johann Christoph</author><title>Die bewaffnete Macht in Staat und Gesellschaft. </title><editor>Adam Wandruszka/Peter Urbanitsch</editor><booktitle>Die Habsburgermonarchie 1848-1918, Bd. V: Die bewaffnete Macht </booktitle><address>Wien</address><year>1987</year><pages>1-141</pages><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Andics, Erzsébet</author><title>A nagybirtokos arisztokrácia ellenforradalmi szerepe 1848-49-ben [Die gegenrevolutionäre Rolle der großgrundbesitzenden Aristokratie in den Jahren 1848-49]</title><volumes>3 Bde.</volumes><address>Budapest</address><year>1952-1981</year><keywords>6. Sekundärliteratur</keywords></book>
 <incollection><author>Andreas, Willy</author><title>Die russische Diplomatie und die Politik Friedrich Wilhelms IV. von Preußen</title><booktitle>Abhandlungen der preußischen Akademie der Wissenschaften 1926, philosophisch-historische Klasse 6</booktitle><address>Berlin</address><year>1927</year><pages>1-64</pages><keywords>6. Sekundärliteratur</keywords></incollection>
@@ -775,8 +771,7 @@ Enciklopedija Jugoslavije<volumes>8 Bde.</volumes><address>Zagreb</address><year
 <article><author>Baltzarek, Franz</author><title>Die Geschichte der Börselokalitäten</title><journal>Wiener Geschichtsblätter</journal><number>26</number><year>(1971)</year><pages>193-199</pages><keywords>6. Sekundärliteratur</keywords></article>
 <book><author>Bartsch, Heinrich</author><title>Die Landtafel in ihrer gegenwärtigen Gestalt </title><address>Wien</address><year>1890</year><keywords>6. Sekundärliteratur</keywords></book>
 <incollection><author>Bauer, Günther</author><title>Das österreichische Zahlenlotto 1752-2002</title><booktitle>Dem Glück auf der Spur. 250 Jahre österreichisches Zahlenlotto (= 285. Sonderausstellung des Historischen Museums der Stadt Wien, Wien 2002) 60-83</booktitle><keywords>6. Sekundärliteratur</keywords></incollection>
-Beer Adolf, Die Finanzen Oesterreichs im XIX. Jahrhundert <address>Nachdruck, Wien</address><year>1973</year>.
-Beer Adolf, Die österreichische Handelpolitik im neunzehnten Jahrhundert <address>Wien</address><year>1891</year>.
+
 <book><author>Borovička, Michael</author><title>Kauza Karel Havlíček Borovský </title><address>Praha</address><year>1998</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Bucsay, Mihaly</author><title>Der Protestantismus in Ungarn, 1521-1978. Ungarns Reformationskirchen in Geschichte und Gegenwart. Teil 1und 2 </title><address>Wien/Köln/Graz</address><year>1977-1979</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Burgstaller, Wolf Dieter</author><title>Das österreichische Handelsministerium unter Karl Ludwig Freiherr von Bruck und der Kampf um die politische und wirtschaftliche Vormachtstellung im deutschen Raum. </title><howpublished>phil. Diss.</howpublished><address>Graz</address><year>1969</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -854,9 +849,9 @@ Beer Adolf, Die österreichische Handelpolitik im neunzehnten Jahrhundert <addre
 <incollection><author>Zimmerauer, Friedrich Ritter v.</author><title>Der land- und forstwirtschaftliche Unterricht</title><booktitle>Geschichte der österreichischen Land- und Forstwirtschaft und ihrer Industrien 1848-1898, Bd. 4</booktitle><address>Wien</address><year>1899</year><pages>487-534</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Zorzi, Alvise</author><title>Österreichs Venedig. Das letzte Kapitel der Fremdherrschaft 1798 bis 1866 </title><address>Düsseldorf</address><year>1990</year><keywords>6. Sekundärliteratur</keywords></book>
 
-BIBLIOGRAPHIE
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><title>Adelslexikon des österreichischen Kaisertums 1804–1918<title><editor>Peter Frank-Döfering</editor><commentator>Peter Frank-Döfering</commentator><shorttitle>Adelslexikon des österreichischen Kaisertums 1804–1918</shorttitle><address>Wien/Freiburg/Basel</address><year>1989<year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Biographisch-Bibliographisches Kirchenlexikon</title><volumes>[bis jetzt] 32 Bde.</volumes><address>Hamm/Herzberg/Nordhausen</address><year>1975-2011</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Biographisches Lexikon zur Geschichte der böhmischen Länder</title><editor>Herbert Sturm (†) and Ferdinand Seibt (†) and Hans Lemberg and Helmut Slapnicka</editor><volumes>[bis jetzt] 4 Bde.</volumes><address>München</address><year>1979-2003</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -865,7 +860,7 @@ BIBLIOGRAPHIE
 <book><author>Vesque v., Püttlingen Johann Freiherr</author><title>Übersicht der österreichischen Staatsverträge seit Maria Theresia bis auf die neueste Zeit mit historischen Erläuterungen </title><address>Wien</address><year>1868</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Oesterreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Allgemeines Reichsgesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Bernatzik, Edmund</editor><title>Die österreichischen Verfassungsgesetze (Wien </title><edition>2</edition><year>1911</year>)<keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Corpus Juris Hungarici seu decretum generale in clyti Regni Hungariae partiumque eidem anexorum tomus secundus</title><address>Buda</address><year>1822</year><shorthand>Cjh.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -888,7 +883,7 @@ BIBLIOGRAPHIE
 <book><title>Schematismus hirarchiae ecclesiae hungariae item Cleri Archi-Dioecesis Strigoniensis</title><address>Strigonii</address><year>1853</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><author>Schuster, Ferdinand</author><title>Die Civilproceßordnung für die Königreiche Ungarn, Kroatien und Slawonien, die Woiwodschaft Serbien und das Temescher Banat, dann jene für das Großfürstentum Siebenbürgen und die damit vereinigten Theile (Wien </title><edition>3</edition><year>1859</year>)<keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 
-3. Memoiren und Tagebücher
+
 <book><author>Dahlerup, Hans Birch Freiherr v.</author><title>In österreichischen Diensten</title><volumes>2 Bde.</volumes><address>Berlin</address><year>1911/1912</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Kalchberg, Josef Freiherr v.</author><title>Mein politisches Glaubensbekenntnis in Gedenkblättern aus einer achtzigjährigen Pilgerfahrt </title><address>Leipzig</address><year>1881</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><editor>Kübeck, Max Freiherr v.</editor><title>Tagebücher des Carl Friedrich Freiherrn Kübeck von Kübau 2  </title><address>Wien</address><year>1909</year><keywords>3. Memoiren und Tagebücher</keywords></book>
@@ -896,14 +891,14 @@ BIBLIOGRAPHIE
 <book><editor>Mayr, Josef Karl</editor><title>Das Tagebuch des Polizeiministers Kempen von 1848 bis 1859 </title><address>Wien/Leipzig</address><year>1931</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><editor>Walter, Friedrich</editor><title>Aus dem Nachlass des Freiherrn Carl Friedrich Kübeck von Kübau. Tagebücher, Briefe, Aktenstücke (1841-1855) </title><series>Veröffentlichungen der Kommission für neuere Geschichte Österreichs</series><number>45</number><address>Graz/Köln</address><year>1960</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 
-4. Zeitgenössische Publizistik
+
 <book><author>Corberon, Graf v.</author><title>Eine Stimme aus Kroatien </title><address>Agram</address><year>1851</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>d’Elvert, Christian</author><title>Geschichte der Studien-, Schul- und Erziehungs-Anstalten in Mähren und Oesterr. Schlesien, insbesondere der Olmützer Universität in der neueren Zeit </title><address>Brünn</address><year>1857</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Fenner v., Fenneberg Daniel</author><title>Oesterreich und seine Armee </title><address>Leipzig</address><year>1847</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Hanzely, Johann</author><title>Sammlung der Bequartierungs-Vorschriften der k. k. Landes-Gendarmerie </title><address>Oedenburg</address><year>1858</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><editor>Kreutz, Johann und Louise</editor><title>Der Dom des Heil. Markus in Venedig, dargestellt in seinen hist. Mosaiken, skulpierten Ornamenten und architekton. Ansichten </title><address>Venedig</address><year>1843</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 
-6. Sekundärliteratur
+
 <book><author>Allmayer-Beck, Johann Christoph</author><title>Der stumme Reiter. Erzherzog Albrecht. Der Feldherr „Gesamtösterreichs“ </title><address>Graz/Wien/Köln</address><year>1997</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Baltzarek, Franz</author><title>Die Geschichte der Wiener Börse </title><address>Veröffentlichung der Kommission für die Wirtschafts-, Sozial- und Stadtgeschichte, Bd. 1, Wien</address><year>1973</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Barany, George</author><title>Ungarns Verwaltung: 1848-1918. </title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, Bd. II: Verwaltung und Rechtswesen </booktitle><address>Wien</address><year>1975</year><pages>306-468</pages><keywords>6. Sekundärliteratur</keywords></book>
@@ -987,9 +982,9 @@ BIBLIOGRAPHIE
 <book><author>Zorzi, Alvise</author><title>Österreichs Venedig. Das letzte Kapitel der Fremdherrschaft 1798 bis 1866 </title><address>Düsseldorf</address><year>1990</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Zschokke, Hermann</author><title>Die theologischen Studien und Anstalten der katholischen Kirche in Österreich </title><address>Wien/Leipzig</address><year>1894</year><keywords>6. Sekundärliteratur</keywords></book>
 
-BIBLIOGRAPHIE
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><title>Allgemeine Deutsche Biographie</title><editor>Historischen Kommission bei der Königlichen Bayerischen Akademie der Wissenschaften</editor><volumes>56 Bde.</volumes><address>Leipzig</address><year>1875-1912</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Biographisches Lexikon zur Geschichte Südosteuropas</title><editor>Mathias Bernath and Felix v. Schroeder </editor><series>Südosteuropäische Arbeiten</series><number>75/I-IV</number><address>München</address><year>1974-1981</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Bittner, Ludwig</author><title>Chronologisches Verzeichnis der österreichischen Staatsverträge</title><volumes>4 Bde.</volumes><series>Veröffentlichungen der Kommission für Neuere Geschichte Österreichs</series><number>1, 8, 13 und 15</number><address>Wien</address><year>1903</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -1020,7 +1015,7 @@ BIBLIOGRAPHIE
 <book><author>Vesque v., Püttlingen Johann Freiherr</author><title>Uebersicht der österreichischen Staatsverträge seit Maria Theresia bis auf die neueste Zeit, mit historischen Erläuterungen </title><address>Wien</address><year>1868</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Österreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Allgemeines Reichs-Gesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year>; Fortsetzung: Reichsgesetzblatt für das Kaiserthum Österreich <address>Wien</address><year>1853-1869</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Bernatzik, Edmund</editor><title>Die österreichischen Verfassungsgesetze (Wien </title><edition>2</edition><year>1911</year>)<keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Fábián-Kiss, Erzsébet</editor><title>Die ungarischen Ministerratsprotokolle aus den Jahren 1848-1849 </title><series>Publikationen des Ungarischen Nationalarchivs 2, Quellenpublikationen</series><number>29</number><address>Budapest</address><year>1998</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -1033,25 +1028,25 @@ BIBLIOGRAPHIE
 <book><title>Verordnungsblatt für den Dienstbereich des österreichischen Finanzministeriums</title><address>Wien</address><year>1854-1893</year><shorthand>Vbfm.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Verordnungsblatt für die Verwaltungszweige des österreichischen Handelsministeriums</title><address>Wien</address><year>1857</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 
-3. Memoiren und Tagebücher
+
 <book><editor>Kübeck, Max Freiherr v.</editor><title>Tagebücher des Carl Friedrich Freiherrn Kübeck von Kübau</title><volumes>2 Bde.</volumes><address>Wien</address><year>1909</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><editor>Mayr, Josef Karl</editor><title>Das Tagebuch des Polizeiministers Kempen von 1848 bis 1859 </title><address>Wien/Leipzig</address><year>1931</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Szőgyény-Marich, László</author><title>Idősb Szőgyény-Marich László országbíró emlékiratai [Denkwürdigkeiten des Landesrichters Ladislaus Szőgyény-Márich László des Älteren]</title><volumes>3 Bde.</volumes><address>Budapest</address><year>1903-1918</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 
-4. Zeitgenössische Publizistik
+
 <author>Czoernig, Carl Freiherr von</author>Oesterreichʼs Neugestaltung 1848-1858 <address>Stuttgart/Augsburg</address><year>1858</year><keywords>4. Zeitgenössische Publizistik</keywords>
 <book><title>Drei Jahre Verfassungsstreit. Beiträge zur jüngsten Geschichte Ungarns </title><shorttitle>Drei Jahre Verfassungsstreit</shorttitle><address>Leipzig</address><year>1864</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Pasetti, [Florian Ritter v. Friedenberg]</author><title>Darstellung des Theißregulierungs-Unternehmens seit dem Beginne der Arbeiten im Jahre 1846 bis zum Schlusse des Jahres 1860 </title><address>Wien</address><year>1862</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 <book><author>Vaisz, Joseph</author><title>Betrachtungen über Ungarns Kredit- und Grundbesitz-Verhältnisse. Den hohen Reichsständen ehrfurchtsvoll gewidmet </title><address>Preßburg</address><year>1844</year>; ungarisch: Vaisz József, Elmélkedések Magyarország hitelés földbirtokviszonyai felett <address>Pozsony</address><year>1845</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 
-5. Zeitungen und Zeitschriften
+
 <book><title>Oesterreichische Correspondenz (1857)</title><shorttitle>Oesterreichische Correspondenz</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Ost-Deutsche Post (1857)</title><shorttitle>Ost-Deutsche Post</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Pest-Ofner Zeitung (1857)</title><shorttitle>Pest-Ofner Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Die Presse (1857)</title><shorttitle>Die Presse</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung</title><year>1848, 1853, 1857, 1858</year><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 
-6. Sekundärliteratur
+
 <book><author>Ahrens, Gerhard</author><title>Krisenmanagement 1857. Staat und Kaufmannschaft in Hamburg während der ersten Weltwirtschaftskrise </title><series>Veröffentlichungen des Vereins für Hamburgische Geschichte</series><number>28</number><address>Hamburg</address><year>1986</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Allmayer-Beck, Johann Christoph</author><title>Der stumme Reiter. Erzherzog Albrecht. Der Feldherr „Gesamtösterreichs“ </title><address>Graz/Wien/Köln</address><year>1997</year><keywords>6. Sekundärliteratur</keywords></book>
 <title>Amtlicher Bericht über die Versammlung deutscher Naturforscher und Ärzte zu Wien im September 1856, herausgegeben von den Geschäftsführern derselben Hyrtl und Schrötter </title><editor>Hyrtl and Schrötter</editor><shorttitle>Amtlicher Bericht über die Versammlung deutscher Naturforscher und Ärzte zu Wien im September 1856</shorttitle><address>Wien</address><year>1858</year><keywords>6. Sekundärliteratur</keywords>
@@ -1184,9 +1179,9 @@ BIBLIOGRAPHIE
 <incollection><author>Zilch, Reinhold</author><title>Die ungeliebten Kronen. Die Zurückweisung der Goldmünzen des deutsch-österreichischen Münzvereins von 1857 durch den deutschen Handel</title><editor>Hardach and Karl</editor><booktitle>Internationale Studien zur Geschichte von Wirtschaft und Gesellschaft [= Festschrift Lothar Baar],</booktitle><volume>2</volume><address>Frankfurt am Main</address><year>2012</year><pages>1325-1340</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Zimmermann, Franz</author><title>Das Ministerium Thun für die Evangelischen im Gesamtstaate Österreich von 1849 bis 1860. Auf Grund archivalischer Quellen </title><address>Wien</address><year>1926</year><keywords>6. Sekundärliteratur</keywords></book>
 
-BIBLIOGRAPHIE
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><title>Allgemeine Deutsche Biographie</title><editor>Historischen Kommission bei der Königlichen Bayerischen Akademie der Wissenschaften</editor><volumes>56 Bde.</volumes><address>Leipzig</address><year>1875-1912</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Bittner, Ludwig</author><title>Chronologisches Verzeichnis der österreichischen Staatsverträge</title><volumes>4 Bde.</volumes><series>Veröffentlichungen der Kommission für Neuere Geschichte Österreichs</series><number>1, 8, 13 und 15</number><address>Wien</address><year>1903</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Czeike, Felix</author><title>Historisches Lexikon Wien</title><volumes>5 Bde.</volumes><address>Wien</address><year>1992-1997</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -1207,7 +1202,7 @@ BIBLIOGRAPHIE
 <book><author>Vesque v. Püttlingen, Johann Freiherr</author><title>Uebersicht der österreichischen Staatsverträge seit Maria Theresia bis auf die neueste Zeit, mit historischen Erläuterungen </title><address>Wien</address><year>1868</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Österreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Allgemeines Reichs-Gesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year>; Fortsetzung: Reichsgesetzblatt für das Kaiserthum Österreich <address>Wien</address><year>1853-1869</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Bernatzik, Edmund</editor><title>Die österreichischen Verfassungsgesetze (Wien </title><edition>2</edition><year>1911</year>)<keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Bollettino delle leggi del Regno d’Italia </title><address>Milano</address><year>1805, 1806</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -1219,13 +1214,13 @@ BIBLIOGRAPHIE
 <book><editor>Pollanetz, Joseph and Wittek, Heinrich</editor><title>Sammlung der das Österreichische Eisenbahnwesen betreffenden Gesetze, Verordnungen, Staatsverträge und Constitutiv-Urkunden</title><volumes>5 Bde.</volumes><address>Wien</address><year>1870-1878</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Verordnungsblatt für den Dienstbereich des österreichischen Finanzministeriums</title><address>Wien</address><year>1854-1893</year><shorthand>Vbfm.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Verordnungsblatt für die Verwaltungszweige des österreichischen Handelsministeriums</title><address>Wien</address><year>1859</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
-3. Memoiren und Tagebücher
+
 <book><editor>Hübner, Graf Joseph Alexander</editor><title>Neun Jahre der Erinnerungen eines Österreichischen Botschafters in Paris unter dem zweiten Kaiserreich 1851-1859</title><volumes>2 Bde.</volumes><address>Berlin</address><year>1904</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Mayr, Josef Karl</editor><title>Das Tagebuch des Polizeiministers Kempen von 1848 bis 1859 </title><address>Wien/Leipzig</address><year>1931</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
-4. Zeitgenössische Publizistik
+
 <author>Czoernig, Carl Freiherr von</author>Oesterreichʼs Neugestaltung 1848-1858 <address>Stuttgart/Augsburg</address><year>1858</year><keywords>2. Gesetzes- und Aktensammlungen</keywords>
 
-5. Zeitungen und Zeitschriften
+
 <book><title>Gazzetta di Milano (1858)</title><shorttitle>Gazzetta di Milano</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Morgen-Post (1858)</title><shorttitle>Morgen-Post</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Oesterreichische Zeitung (1858)</title><shorttitle>Oesterreichische Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
@@ -1233,7 +1228,7 @@ BIBLIOGRAPHIE
 <book><title>Die Presse</title><year>1858, 1859</year><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung</title><year>1858, 1859</year><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 
-6. Sekundärliteratur
+
 <book><author>Allmayer-Beck, Johann Christoph</author><title>Der stumme Reiter. Erzherzog Albrecht. Der Feldherr „Gesamtösterreichs“ </title><address>Graz/Wien/Köln</address><year>1997</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Bachinger, Karl</author><title>Das Verkehrswesen. </title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, 1: Die wirtschaftliche Entwicklung</booktitle><editor>Alois Brusatti </editor><address>Wien</address><year>1973</year><pages>278-322</pages><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Bachmayer, Othmar</author><title>Die Geschichte der österreichischen Währungspolitik </title><series>Schriftenreihe der Österreichischen Bankwissenschaftlichen Gesellschaft</series><number>12</number><address>Wien</address><year>1960</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1246,7 +1241,7 @@ BIBLIOGRAPHIE
 <book><author>Blumberg, Arnold</author><title>A Carfully Planned Accident. The Italian War 1859 </title><address>Susquehanna</address><year>1990</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Boaglio, Gualtiero</author><title>Geschichte der italienischen Literatur in Österreich. Teil 2: Von Campoformido bis Saint-Germain 1797-1918</title><address>Wien/Köln/Weimar</address><year>2012</year><keywords>6. Sekundärliteratur</keywords></book>
 <editor>Brandt, Harm-Hinrich</editor>Der österreichische Neoabsolutismus als Verfassungs- und Verwaltungsproblem. Diskussionen über einen strittigen Epochenbegriff <address>Wien/Köln/Weimar</address><year>2014</year><keywords>6. Sekundärliteratur</keywords>
-Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, 6/1: Die Habsburgermonarchie im System der internationalen Beziehungen </booktitle><address>Wien</address><year>1989</year><pages>196-373</pages>.
+
 <author>Bulle, Constantin</author>Geschichte des zweiten Kaiserreiches und des Königreiches Italien <address>Berlin</address><year>1890</year><keywords>6. Sekundärliteratur</keywords>
 <book><author>Corsini, Umberto</author><title>La questione del Canale negli orientamenti politici del governo di Vienna tra il 1843 e il 1859. </title><editor>Gualtiero Adami/Oliva Algardi/Umberto Corsini/Vittorio Zignoli</editor><booktitle>Luigi Negrelli. Il Canale di Suez 1869−1969 </booktitle><series>Collana di monografie edita dalla Società di Studi Trentini di Scienze Storiche</series><number>19</number><address>Trento</address><year>1969</year> 68−115<keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Corti, Egon Caesar Conte</author><title>Mensch und Herrscher. Wege und Schicksale Kaiser Franz Josephs I. zwischen Thronbesteigung und Berliner Kongreß </title><address>Graz/Wien/Altötting</address><year>1952</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1292,7 +1287,7 @@ Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandr
 <book><author>Ogris, Werner</author><title>Die Rechtsentwicklung in Cisleithanien 1848-1918. </title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, 2: Verwaltung und Rechtswesen </booktitle><address>Wien</address><year>1975</year><pages>538-662</pages><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Olechowski, Thomas</author><title>Die Entwicklung des Preßrechts in Österreich bis 1918. Ein Beitrag zur Medienrechtsgeschichte</title><address>Wien</address><year>2004</year><keywords>6. Sekundärliteratur</keywords></book>
 <article><author>Paić, Joseph v.</author><title>Zur politischen Vorgeschichte des Feldzuges von 1859. Nach offiziellen österreichischen Quellen</title><journal>Mitteilungen des Instituts für österreichische Geschichtsforschung</journal><number>43</number><year>(1929)</year><pages>376-390</pages><keywords>6. Sekundärliteratur</keywords></article>
-Pascu Ştefan – Nuţu Constantin, Rumänien und die Außenpolitik der Habsburgermonarchie 1848-1918. <editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, 6/2: Die Habsburgermonarchie im System der internationalen Beziehungen </booktitle><address>Wien</address><year>1993</year><pages>279-318</pages>.
+
 <book><author>Pichler, Josef</author><title>Ortskunde des Marktes St. Gallen in Steiermark </title><address>Tamsweg</address><year>1912</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Plöchl, Willibald M.</author><title> St. Barbara zu Wien. Die Geschichte der griechisch-katholischen Kirche und Zentralpfarre St. Barbara</title><volumes>2 Bde.</volumes><series>Kirche und Recht</series><number>13 und 14</number><address>Wien</address><year>1975</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Primetshofer, Bruno</author><title>Rechtsgeschichte der gemischten Ehen in Österreich und Ungarn (1781-1841). Ein Beitrag zur Geschichte der Beziehungen zwischen Kirche und Staat </title><series>Kirche und Recht Beihefte zum Österreichischen Archiv für Kirchenrecht</series><number>6</number><address>Wien</address><year>1967</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1340,9 +1335,9 @@ Pascu Ştefan – Nuţu Constantin, Rumänien und die Außenpolitik der Habsburg
 <book><author>Willms, Johannes</author><title>Napoleon III. Frankreichs letzter Kaiser</title><address>München</address><year>2008</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Zimmermann, Franz</author><title>Das Ministerium Thun für die Evangelischen im Gesamtstaate Österreich von 1849 bis 1860. Auf Grund archivalischer Quellen </title><address>Wien</address><year>1926</year><keywords>6. Sekundärliteratur</keywords></book>
 
-BIBLIOGRAPHIE
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><title>Atlas der Donauländer</title><editor>Österreichischen Ost- und Südosteuropa-Institut</editor><editora>Josef Breu</editora><editoratype>reviser<shorttitle>Atlas der Donauländer</shorttitle><address>Wien</address><year>1970-1989</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><title>Bibliografia dell’età del Risorgimento in onore di Alberto M. Ghisalberti </title><series>Biblioteca di bibliografia italiana</series><number>63, 64, 78 und 81</number><address>Firenze</address><year>1971</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Bittner, Ludwig</author><title>Chronologisches Verzeichnis der österreichischen Staatsverträge </title><volumes>4 Bde.</volumes><series>Veröffentlichungen der Kommission für Neuere Geschichte Österreichs</series><number>1, 8, 13 und 15</number><address>Wien</address><year>1903</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -1360,7 +1355,7 @@ BIBLIOGRAPHIE
 <book><author>Springer, Johann</author><title>Statistik des österreichischen Kaiserstaates</title><volumes>2 Bde.</volumes><address>Wien</address><year>1840</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Österreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Allgemeines Reichs-Gesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year>; Fortsetzung: Reichsgesetzblatt für das Kaiserthum Österreich <address>Wien</address><year>1853-1869</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Bernatzik, Edmund</editor><title>Die österreichischen Verfassungsgesetze (Wien </title><edition>2</edition><year>1911</year>)<keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Fischel, Alfred</editor><title>Materialien zur Sprachenfrage in Österreich </title><address>Brünn</address><year>1902</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -1373,7 +1368,7 @@ BIBLIOGRAPHIE
 <book><title>Schiller - Zeitgenosse aller Epochen. Dokumente zur Wirkungsgeschichte Schillers in Deutschland</title><editor>Norbert Oellers</editor><commentator>Norbert Oellers</commentator><introduction>Norbert Oellers</introduction><volumes>Teil I: 1782-1859, Teil II: 1860-1966</volumes><shorttitle>Schiller - Zeitgenosse aller Epochen</shorttitle><address>Frankfurt am Main/München</address><year>1970/1976</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Strafgesetz über Gefällsübertretungen</title><address>Wien</address><year>1835</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 
-3. Memoiren und Tagebücher
+
 <book><editor>Cessi Drudi, Maria</editor><title>Joseph Alexander von Hübner. La monarchia austriaca dopo Villafranca [Titel v. Hg.] (Résumé de l’an 1859, dal „Journal“, vol. XIV) </title><series>Ministero dell’Interno, Pubblicazioni degli Archivi di Stato</series><number>35</number><address>Roma</address><year>1959</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Karolyi, Árpád</author><title>Gr. Széchenyi István döblingi irodalmi hagyatéka [Die Döblinger Schriften des Grafen István Széchenyi] </title><series>Fontes historiae hungaricae aevi recentioris</series><number>1/7</number><address>Budapest</address><year>1921</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><editor>Lévay, József</editor><title>Emlélapok Vajai Báró Vay Miklós életéből. Lévay József bevezetésével [Gedenkblätter aus dem Leben des Freiherrn Nikolaus Vay v. Vaya. Mit einer Einleitung von Josef Lévay] </title><address>Budapest</address><year>1899</year><keywords>3. Memoiren und Tagebücher</keywords></book>
@@ -1383,18 +1378,18 @@ BIBLIOGRAPHIE
 <book><author>Schäffle, Albert Eberhard Friedrich</author><title>Aus meinem Leben</title><volumes>2 Bde.</volumes><address>Berlin</address><year>1905</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Szögyény-Marich, László</author><title>Idősb Szögyény-Marich László országbíró emlékiratai [Denkwürdigkeiten des Landesrichters Ladislaus Szögyény-Márich László des Älteren]</title><volumes>3 Bde.</volumes><address>Budapest</address><year>1903-1918</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 
-4. Zeitgenössische Publizistik
+
 <incollection><author>Czoernig, Karl Freiherr v.</author><title>Oesterreich’s Neugestaltung</title><booktitle>Ethnographie der österreichischen Monarchie, Bd. 1/1</booktitle><address>Wien</address><year>1857</year> 224-616; als eigenständiges Buch: Stuttgart/Augsburg 1858<keywords>4. Zeitgenössische Publizistik</keywords></incollection>
 <book><author>Wurzbach, Constant v.</author><title>Das Schillerbuch. Festgabe zur ersten Säcular-Feier von Schiller’s Geburt. </title><address>Wien</address><year>1859</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 
-5. Zeitungen und Zeitschriften
+
 <book><title>Der Fortschritt (1860)</title><shorttitle>Der Fortschritt</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Kladderadatsch. Humoristisch-satirisches Wochenblatt (1859)</title><shorttitle>Kladderadatsch</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Ost-Deutsche Post (1859)</title><shorttitle>Ost-Deutsche Post</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Die Presse (1859/1860)</title><shorttitle>Die Presse</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung (1859/1860)</title><shorttitle>Wiener Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 
-6. Sekundärliteratur
+
 <article><author>Agstner, Rudolf</author><title>Das Hôtel Matignon als k. u. k. Botschaft in Paris 1889-1914</title><journal>Mitteilungen des Österreichischen Staatsarchivs</journal><number>41</number><year>(1990)</year><pages>215-263</pages><keywords>6. Sekundärliteratur</keywords></article>
 <book><author>Allmayer-Beck, Johann Christoph</author><title>Der Konservatismus in Österreich </title><series>Konservative Schriftenreihe</series><number>4</number><address>München</address><year>1959</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Allmayer-Beck, Johann Christoph</author><title>Der stumme Reiter. Erzherzog Albrecht, der Feldherr “Gesamtösterreichs” </title><address>Graz</address><year>1997</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1413,7 +1408,7 @@ BIBLIOGRAPHIE
 <incollection><author>Blaas, Richard</author><title>Gli Imperi Centrali</title><booktitle>Bibliografia dell’età del Risorgimento 3</booktitle><address>Firenze</address><year>1974</year><pages>329-436</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <incollection><author>Blaas, Richard</author><title>L’Austria e le truppe straniere del Re delle Due Sicilie</title><booktitle>Atti del XXXVI Congresso di Storia del Risorgimento italiano, Salerno 1957</booktitle><series>Istituto per la Storia del Risorgimento italiano. Atti dei Congressi</series><number>4</number><address>Roma</address><year>1960</year><pages>68-91</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <incollection><author>Brauneder, Wilhelm</author><title>Die Verfassungsentwicklung in Österreich 1848 bis 1918</title><editor>Rumpler and Helmut – Urbanitsch Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VII/1: Verfassung und Parlamentarismus</booktitle><address>Wien</address><year>2000</year> 145 ff<keywords>6. Sekundärliteratur</keywords></incollection>
-Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VI/1: Die Habsburgermonarchie im System der internationalen Beziehungen </booktitle><address>Wien</address><year>1989</year><pages>1-121</pages>.
+
 <incollection><author>Brignoli, Marziano</author><title>La campagna militare</title><booktitle>Un anno cruciale del Risorgimento: il 1859 (Milano, in Druck)</booktitle><keywords>6. Sekundärliteratur</keywords></incollection>
 <article><author>Broucek, Peter</author><title>Militärhistoriographisches Nachbeben des Feldzugsjahres 1859</title><journal>Mitteilungen des Österreichischen Staatsarchivs</journal><number>31</number><year>(1978)</year><pages>283-297</pages><keywords>6. Sekundärliteratur</keywords></article>
 <book><author>Burger, Hannelore</author><title>Sprachenrecht und Sprachengerechtigkeit im österreichischen Unterrichtswesen 1867-1918 </title><series>Studien zur Geschichte der österreichisch-ungarischen Monarchie</series><number>26</number><address>Wien</address><year>1995</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1517,9 +1512,9 @@ Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandr
 <incollection><author>Zedinger, Renate</author><title>Lothringens Erbe – Vermächtnis einer europäischen Dynastie</title><editor>Zedinger, Renate</editor><booktitle>Lothringens Erbe. Franz Stephan von Lothringen (1708-1765) und sein Wirken in Wirtschaft, Wissenschaft und Kunst der Habsburgermonarchie. Ausstellung Schallaburg </booktitle><series>Katalog des Niederösterreichischen Landesmuseums, Neue Folge</series><number>429</number><address>St. Pölten</address><year>2000</year><pages>1f</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Zöllner, Erich</author><title>Geschichte Österreichs von den Anfängen bis zur Gegenwart (Wien </title><edition>8</edition><year>1990</year>)<keywords>6. Sekundärliteratur</keywords></book>
 
-BIBLIOGRAPHIE
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><author>Bittner, Ludwig</author><title>Chronologisches Verzeichnis der österreichischen Staatsverträge</title><volumes>4 Bde.</volumes><series>Veröffentlichungen der Kommission für Neuere Geschichte Österreichs</series><number>1, 8, 13 und 15</number><address>Wien</address><year>1903</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Czeike, Felix</author><title>Historisches Lexikon Wien</title><volumes>5 Bde.</volumes><address>Wien</address><year>1992-1997</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><editor>Frank-Döfering, Peter</editor><title>Adelslexikon des österreichischen Kaisertums 1804-1918 </title><address>Wien-Freiburg-Basel</address><year>1989</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -1540,7 +1535,7 @@ BIBLIOGRAPHIE
 <book><author>Thieme, Ulrich and Becker, Felix</author><title>Allgemeines Lexikon der bildenden Künstler. Von der Antike bis zur Gegenwart</title><volumes>37 Bde.</volumes><address>Leipzig</address><year>1907-1950</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Österreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Allgemeines Reichs-Gesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year>; Fortsetzung: Reichsgesetzblatt für das Kaiserthum Österreich <address>Wien</address><year>1853-1869</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Beilage-Heft zum Allgemeines Reichs-Gesetz- und Regierungsblatte für das Kaiserthum Österreich</title><shorttitle>Beilage-Heft</shorttitle><address>Wien</address><year>1850</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Bernatzik, Edmund</editor><title>Die österreichischen Verfassungsgesetze (Wien </title><edition>2</edition><year>1911</year>)<keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -1559,14 +1554,14 @@ BIBLIOGRAPHIE
 <book><title>Verordnungsblatt für den Dienstbereich des österreichischen Finanzministeriums</title><address>Wien</address><year>1854-1893</year><shorthand>Vbfm.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Verhandlungen des österreichischen verstärkten Reichsrates 1860. Nach den stenographischen Protokollen</title><shorttitle>Verhandlungen des österreichischen verstärkten Reichsrates 1860</shorttitle><note>Wien 1860</note><edition>fotomechanischer Nachdruck. Mit Einleitung und ergänzten biographischen Hinweisen neu herausgegeben von Gerhard Silvestri</edition><volumes>2 Bde.</volumes><address>Wien</address><year>1972</year><shorthand>Vvr.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 
-3. Memoiren und Tagebücher
+
 <author>Arneth, Alfred Ritter v.</author>Aus meinem Leben<address>Wien</address><year>1891/92</year><keywords>3. Memoiren und Tagebücher</keywords>
 <book><author>Szőgyény-Marich, László</author><title>Idősb Szőgyény-Marich László országbíró emlékiratai [Denkwürdigkeiten des Landesrichters Ladislaus Szőgyény-Márich László des Älteren]</title><volumes>3 Bde.</volumes><address>Budapest</address><year>1903-1918</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 
-4. Zeitgenössische Publizistik
+
 <book><author>[Eötvös], [Josef Freiherr v.]</author><title>Die Garantien der Macht und Einheit Oesterreichs </title><address>Leipzig</address><year>1859</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 
-5. Zeitungen und Zeitschriften
+
 <book><title>Deutsche Allgemeine Zeitung (1860)</title><shorttitle>Deutsche Allgemeine Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Donau-Zeitung (1860)</title><shorttitle>Donau-Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Ost-Deutsche Post (1860)</title><shorttitle>Ost-Deutsche Post</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
@@ -1577,7 +1572,7 @@ BIBLIOGRAPHIE
 <book><title>Wiener Dombauvereins-Blatt (1881)</title><shorttitle>Wiener Dombauvereins-Blatt</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung (1859/1860)</title><shorttitle>Wiener Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 
-6. Sekundärliteratur
+
 <book><author>Allmayer-Beck, Johann Christoph</author><title>Der stumme Reiter. Erzherzog Albrecht, der Feldherr “Gesamtösterreichs” </title><address>Graz</address><year>1997</year><keywords>6. Sekundärliteratur</keywords></book>
 <incollection><author>Altgeld, Wolfgang</author><title>Das Risorgimento (1815-1876)</title><booktitle>Altgeld Wolfgang – Lill Rudolf, Kleine Geschichte Italiens. Mit Beiträgen von Thomas Frenz, Angelica Gernert/Michael Groblewski</booktitle><address>Stuttgart</address><year>2004</year><pages>257-324</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Altmüller, Rudolf</author><title>Der verstärkte Reichsrat 1860 </title><address>Staatsprüfungsarbeit am Institut für österreichische Geschichtsforschung, Wien</address><year>1962</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1593,7 +1588,7 @@ BIBLIOGRAPHIE
 <article><author>Blaas, Richard</author><title>Österreich und die Einigung Italiens zwischen den Konferenzen von Teplitz und Warschau (25. Juli – 25. Oktober 1860)</title><journal>Mitteilungen des Österreichischen Staatsarchivs</journal><number>21</number><year>(1968)</year><pages>251-330</pages><keywords>6. Sekundärliteratur</keywords></article>
 <article><author>Blaas, Richard</author><title>Die italienische Frage und das österreichische Parlament 1859-1866</title><journal>Mitteilungen des Österreichischen Staatsarchivs</journal><number>22</number><year>(1969)</year><pages>151-245</pages><keywords>6. Sekundärliteratur</keywords></article>
 <incollection><author>Brauneder, Wilhelm</author><title>Die Verfassungsentwicklung in Österreich 1848 bis 1918</title><editor>Rumpler, Helmut and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VII/1: Verfassung und Parlamentarismus. Verfassungswirklichkeit, zentrale Repräsentativkörperschaften</booktitle><address>Wien</address><year>2000</year><pages>69-237</pages><keywords>6. Sekundärliteratur</keywords></incollection>
-Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VI/1: Die Habsburgermonarchie im System der internationalen Beziehungen </booktitle><address>Wien</address><year>1989</year><pages>1-121</pages>.
+
 <book><author>Buchmann, Bertrand Michael</author><title>Österreich und das Osmanische Reich. Eine bilaterale Geschichte </title><address>Wien</address><year>1999</year><keywords>6. Sekundärliteratur</keywords></book>
 <incollection><author>Burger, Hannelore</author><title>Paßwesen und Staatsbürgerschaft</title><editor>Heindl and Waltraud – Saurer Edith</editor><booktitle>Grenze und Staat. Paßwesen, Staatsbürgerschaft, Heimatrecht und Fremdengesetzgebung in der österreichischen Monarchie 1750-1867</booktitle><address>Wien-Köln-Weimar</address><year>2000</year><pages>1-172</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Burger, Hannelore</author><title>Sprachenrecht und Sprachengerechtigkeit im österreichischen Unterrichtswesen 1867-1918 </title><series>Studien zur Geschichte der österreichisch-ungarischen Monarchie</series><number>26</number><address>Wien</address><year>1995</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1674,7 +1669,7 @@ Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandr
 <book><author>Szabad, György</author><title>Forradalom és kiegyezés válaszútján (1860-1861) [Auf dem Scheideweg zwischen Revolution und Ausgleich 1860-1861] </title><address>Budapest</address><year>1967</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Timon, Ákos v.</author><title>Ungarische Verfassungs- und Rechtsgeschichte mit Bezug auf die Rechtsentwicklung der westlichen Staaten (Berlin </title><edition>2</edition><year>1909</year>)<keywords>6. Sekundärliteratur</keywords></book>
 <incollection><author>Tocci, Giovanni</author><title>Il ducato di Parma e Piacenza</title><booktitle>I ducati padani, Trento e Trieste</booktitle><series>Storia d’Italia UTET</series><address>Torino</address><year>1979</year><keywords>6. Sekundärliteratur</keywords></incollection>
-[Trost], Der Umbau der oberen Pyramide des Wiener Stephansturmes <address>Wien</address><year>1843</year>.
+<book><author>[Trost]</author><title>Der Umbau der oberen Pyramide des Wiener Stephansturmes</title><address>Wien</address><year>1843</year></book>
 <book><author>Turczynski, Emanuel</author><title>Orthodoxe und Unierte. </title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, IV: Die Konfessionen </booktitle><address>Wien</address><year>1985</year><pages>399-488</pages><keywords>6. Sekundärliteratur</keywords></book>
 <incollection><author>Urbanitsch, Peter</author><title>Von Bach zu Schmerling. Auf dem Weg zur Steirischen Landesordnung (1849-1861)</title><booktitle>Focus Austria. Vom Vielvölkerreich zum EU-Staat. Festschrift für Alfred Ableitinger zum 65. Geburtstag</booktitle><editor>Siegfried Beer</editor><address>Graz</address><year>2003<year><pages>332-355</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><title>Versicherungsgeschichte Österreichs</title><volumes>3 Bde.</volumes><address>Wien</address><year>1988</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1689,9 +1684,9 @@ Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandr
 <article><author>Wolf, Mechtild</author><title>Hauptprobleme einer Monographie Ignaz von Pleners</title><journal>Bohemia. Jahrbuch des Collegium Carolinum</journal><number>14</number><year>(1971)</year><pages>243-254</pages><keywords>6. Sekundärliteratur</keywords></article>
 <book><author>Zschokke, Hermann</author><title>Geschichte des Metropolitan-Capitels zum heiligen Stephan in Wien (nach Archivalien) </title><address>Wien</address><year>1895</year><keywords>6. Sekundärliteratur</keywords></book>
 
-BIBLIOGRAPHIE
 
-1. Handbücher und lexikalische Hilfsmittel
+
+
 <book><title>Biographisches Lexikon zur Geschichte der böhmischen Länder</title><editor>Collegium Carolinum<editor><volumes>[bis jetzt] 3 Bde.</volumes><address>München/Wien</address><year>1979-2000</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Bittner, Ludwig</author><title>Chronologisches Verzeichnis der österreichischen Staatsverträge</title><volumes>4 Bde.</volumes><series>Veröffentlichungen der Kommission für Neuere Geschichte Österreichs</series><number>1, 8, 13 und 15</number><address>Wien</address><year>1903</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Czeike, Felix</author><title>Historisches Lexikon Wien</title><volumes>5 Bde.</volumes><address>Wien</address><year>1992-1997</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
@@ -1710,7 +1705,7 @@ BIBLIOGRAPHIE
 <book><author>Vesque v., Püttlingen Johann Freiherr</author><title>Uebersicht der österreichischen Staatsverträge seit Maria Theresia bis auf die neueste Zeit, mit historischen Erläuterungen </title><address>Wien</address><year>1868</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 <book><author>Wurzbach, Constant v.</author><title>Biographisches Lexikon des Kaiserthums Österreich</title><volumes>60 Bde.</volumes><address>Wien</address><year>1856-1891</year><keywords>1. Handbücher und lexikalische Hilfsmittel</keywords></book>
 
-2. Gesetzes- und Aktensammlungen
+
 <book><title>Allgemeines Reichs-Gesetz- und Regierungsblatt für das Kaiserthum Österreich</title><address>Wien</address><year>1849-1852</year>; Fortsetzung: Reichsgesetzblatt für das Kaiserthum Österreich <address>Wien</address><year>1853-1869</year><shorthand>Rgbl.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Bernatzik, Edmund</editor><title>Die österreichischen Verfassungsgesetze </title><address>Wien</address><edition>2</edition><year>1911</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><editor>Fischel, Alfred</editor><title>Materialien zur Sprachenfrage in Österreich </title><address>Brünn</address><year>1902</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
@@ -1723,17 +1718,17 @@ BIBLIOGRAPHIE
 <book><title>Der Ungarische Verfassungsstreit urkundlich dargestellt</title><howpublished>Beilage zu Aegidi Ludwig Karl – Klauhold Alfred, Hg., Das Staatsarchiv, Sammlung der officiellen Actenstücke zur Geschichte der Gegenwart</howpublished><editor>Aegidi, Ludwig Karl and Klauhold, Alfred</editor><booktitle>Das Staatsarchiv, Sammlung der officiellen Actenstücke zur Geschichte der Gegenwart</booktitle><shorttitle>Der Ungarische Verfassungsstreit urkundlich dargestellt</shorttitle><address>Hamburg</address><year>1862</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Verordnungsblatt für den Dienstbereich des österreichischen Finanzministeriums</title><address>Wien</address><year>1854-1893</year><shorthand>Vbfm.</shorthand><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 
-3. Memoiren und Tagebücher
+
 <author>Arneth, Alfred Ritter v.</author>Aus meinem Leben<address>Wien</address><year>1891/92</year><keywords>3. Memoiren und Tagebücher</keywords>
 <book><editor>Meyer, Bernhard Ritter von</editor><title>Erlebnisse des Bernhard Ritter von Meyer, weiland Staatsschreiber und Tagsatzungs-Gesandter des Cantons Luzern, nachmaliger k. k. österreichischer Hof- und Ministerialrath, Secretär des Ministerraths etc. etc. Von ihm selbst verfaßt und abgeschlossen. Hg. von dessen Sohn</title><volumes>2 Bde.</volumes><address>Wien/Pest</address><year>1875</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Schmerling, Anton Ritter v.</author><title>Der Vater der Verfassung. Aus den Denkwürdigkeiten Anton Ritters von Schmerling </title><address>Wien</address><year>1993</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 <book><author>Szőgyény-Marich, László</author><title>Idősb Szőgyény-Marich László országbíró emlékiratai [Denkwürdigkeiten des Landesrichters Ladislaus Szőgyény-Márich László des Älteren]</title><volumes>3 Bde.</volumes><address>Budapest</address><year>1903-1918</year><keywords>3. Memoiren und Tagebücher</keywords></book>
 
-4. Zeitgenössische Publizistik
+
 <book><title>Betrachtungen eines Engländers über die Oesterreichischen Zustände</title><address>Stuttgart</address><year>1860</year><keywords>4. Zeitgenössische Publizistik</keywords></book>
 
 
-5. Zeitungen und Zeitschriften
+
 <book><title>Agramer Zeitung (1861)</title><shorttitle>Agramer Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Deutsche Allgemeine Zeitung (1860/1861)</title><shorttitle>Deutsche Allgemeine Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Donau-Zeitung (1860)</title><shorttitle>Donau-Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
@@ -1746,7 +1741,7 @@ BIBLIOGRAPHIE
 <book><title>Wanderer (1860)</title><shorttitle>Wanderer</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 <book><title>Wiener Zeitung (1860/1861)</title><shorttitle>Wiener Zeitung</shorttitle><keywords>5. Zeitungen und Zeitschriften</keywords></book>
 
-6. Sekundärliteratur
+
 <book><title>Der Anker. Allgemeine Versicherungsgesellschaft. Hundert Jahre. 1858-1958 </title><shorttitle>Der Anker</shorttitle><address>Wien</address><year>1958</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Barany, George</author><title>Ungarns Verwaltung: 1848-1918. </title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, II: Verwaltung und Rechtswesen </booktitle><address>Wien</address><year>1975</year><pages>306-468</pages><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Beer, Adolf</author><title>Die Finanzen Oesterreichs im XIX. Jahrhundert. Nach archivalischen Quellen </title><address>Prag</address><year>1877</year>; fotomechanischer Nachdruck <address>Wien</address><year>1973</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1758,7 +1753,7 @@ BIBLIOGRAPHIE
 <book><author>Blaas, Richard</author><title>Il problema veneto nella politica estera austriaca del periodo 1859-1866 </title><series>Biblioteca dell’ “Archivio Veneto”</series><number>2</number><address>Venezia</address><year>1967</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><editor>Bosl, Karl</editor><title>Handbuch der Geschichte der böhmischen Länder, 2: Die böhmischen Länder von der Hochblüte der Ständeherrschaft bis zum Erwachen eines modernen Nationalbewußtseins </title><address>Stuttgart</address><year>1974</year>; 3: Die böhmischen Länder im Habsburgerreich 1848-1919. Bürgerlicher Nationalismus und Ausbildung einer Industriegesellschaft <address>Stuttgart</address><year>1968</year><keywords>6. Sekundärliteratur</keywords></book>
 <article><author>Brettner-Messler, Horst</author><title>Zwischen zwei Kriegen. Der österreichisch-italienische Notenwechsel vom Jahre 1861 betreffend reziproke Gestattung von Cabotage und Küstenfischerei</title><journal>Festschrift Richard Blaas. Mitteilungen des Österreichischen Staatsarchivs</journal><number>31</number><year>(1978)</year><pages>298-308</pages><keywords>6. Sekundärliteratur</keywords></article>
-Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VI/1: Die Habsburgermonarchie im System der internationalen Beziehungen </booktitle><address>Wien</address><year>1989</year><pages>1-121</pages>.
+<incollection><author>Bridge, Francis Roy</author><title>Österreich (-Ungarn) unter den Großmächten</title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VI/1: Die Habsburgermonarchie im System der internationalen Beziehungen </booktitle><address>Wien</address><year>1989</year><pages>1-121</pages></incollection>
 <incollection><author>Buczynski, Alexander</author><title>Der dalmatinische Landtag</title><editor>Rumpler and Helmut – Urbanitsch Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VII/2: Verfassung und Parlamentarismus. Die regionalen Repräsentativkörperschaften</booktitle><address>Wien</address><year>2000</year><pages>1951-1989</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <incollection><author>Burger, Hannelore</author><title>Paßwesen und Staatsbürgerschaft</title><editor>Heindl and Waltraud – Saurer Edith</editor><booktitle>Grenze und Staat. Paßwesen, Staatsbürgerschaft, Heimatrecht und Fremdengesetzgebung in der österreichischen Monarchie 1750-1867</booktitle><address>Wien/Köln/Weimar</address><year>2000</year><pages>1-172</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Burger, Hannelore</author><title>Sprachenrecht und Sprachengerechtigkeit im österreichischen Unterrichtswesen 1867-1918 </title><series>Studien zur Geschichte der österreichisch-ungarischen Monarchie</series><number>26</number><address>Wien</address><year>1995</year><keywords>6. Sekundärliteratur</keywords></book>
@@ -1818,7 +1813,7 @@ Bridge Francis Roy, Österreich (-Ungarn) unter den Großmächten. <editor>Wandr
 <incollection><author>Nada, Narciso</author><title>Il Piemonte sabaudo dal 1814 al 1861</title><booktitle>Storia d’Italia UTET 8/2</booktitle><address>Torino</address><year>1993</year><pages>93-476</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Ogris, Werner</author><title>Die Rechtsentwicklung in Cisleithanien 1848-1918. </title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, II: Verwaltung und Rechtswesen </booktitle><address>Wien</address><year>1975</year><pages>538-662</pages><keywords>6. Sekundärliteratur</keywords></book>
 <incollection><author>Olechowski, Thomas</author><title>Pressewesen und öffentliche Meinung</title><editor>Rumpler and Helmut – Urbanitsch Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VIII/2: Politische Öffentlichkeit und Zivilgesellschaft. Die Presse als Faktor der politischen Mobilisierung</booktitle><address>Wien</address><year>2006</year><pages>1493-1533</pages><keywords>6. Sekundärliteratur</keywords></incollection>
-Pascu Ştefan – Nuţu Constantin, Rumänien und die Außenpolitik der Habsburgermonarchie 1848-1918. <editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VI/2: Die Habsburgermonarchie im System der internationalen Beziehungen </booktitle><address>Wien</address><year>1993</year><pages>279-318</pages>.
+<incollection><author>Pascu, Ştefan and Nuţu, Constantin</author><title>Rumänien und die Außenpolitik der Habsburgermonarchie 1848-1918</title><editor>Wandruszka, Adam and Urbanitsch, Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VI/2: Die Habsburgermonarchie im System der internationalen Beziehungen </booktitle><address>Wien</address><year>1993</year><pages>279-318</pages></incollection>
 <incollection><author>Péter, László</author><title>Die Verfassungsentwicklung in Ungarn</title><editor>Rumpler and Helmut – Urbanitsch Peter</editor><booktitle>Die Habsburgermonarchie 1848-1918, VII/1: Verfassung und Parlamentarismus. Verfassungsrecht, Verfassungswirklichkeit, zentrale Repräsentativkörperschaften</booktitle><address>Wien</address><year>2000</year><pages>239-540</pages><keywords>6. Sekundärliteratur</keywords></incollection>
 <book><author>Pressburger, Siegfried</author><title>Das Österreichische Noteninstitut 1816-1866. Im Auftrage der Oesterreichischen Nationalbank verfaßt von ihrem Bibliothekar, 2 Teile</title><volumes>5 Bde.</volumes><address>Wien</address><year>1959-1972</year><keywords>6. Sekundärliteratur</keywords></book>
 <book><author>Redlich, Josef</author><title>Das österreichische Staats- und Reichsproblem. Geschichtliche Darstellung der inneren Politik der habsburgischen Monarchie von 1848 bis zum Untergang des Reiches, Bd. 1 </title><address>in zwei Teilen) und 2 (Leipzig 1920 und</address><year>1926</year><keywords>6. Sekundärliteratur</keywords></book>
