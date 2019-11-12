@@ -47,8 +47,8 @@
 <book><author>Thim, Jószef</author><title>A magyarországi 1848/49-iki szerb felkelés története [Geschichte des Aufstandes der Serben in Ungarn 1848/49]</title><volumes>3 Bde.</volumes><address>Budapest</address><year>1930-1935</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><title>Oesterreichische Zeitschrift Für Rechts- Und Staatswissenschaften (1849)</title><shorttitle>Oesterreichische Zeitschrift Für Rechts- Und Staatswissenschaften</shorttitle><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 <book><author>Püttlingen, Johann Freiherr Vesque v.</author><title>Uebersicht der österreichischen Staatsverträge seit Maria Theresia bis auf die neueste Zeit, mit historischen Erläuterungen </title><address>Wien</address><year>1868</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
-<author>Verhandlungen des Österreichischen Reichstages, nach der stenographischen Aufnahme</author><volumes>5 Bde.</volumes><address>Wien</address><year>1848/1849</year><keywords>2. Gesetzes- und Aktensammlungen</keywords>.
-<title>Verordnungsblatt für Posten, Eisenbahnbetrieb und Telegraphen 1850</title><shorttitle>Verordnungsblatt für Posten</shorttitle><volumes>3 Bd.</volumes><keywords>2. Gesetzes- und Aktensammlungen</keywords>.
+<book><title>Verhandlungen des Österreichischen Reichstages, nach der stenographischen Aufnahme</title><volumes>5 Bde.</volumes><address>Wien</address><year>1848/1849</year><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
+<book><title>Verordnungsblatt für Posten, Eisenbahnbetrieb und Telegraphen 1850</title><shorttitle>Verordnungsblatt für Posten</shorttitle><volumes>3 Bd.</volumes><keywords>2. Gesetzes- und Aktensammlungen</keywords></book>
 
 
 <book><author>Dahlerup, Hans Birch Freiherr v.</author><title>In österreichischen Diensten</title><volumes>2 Bde.</volumes><address>Berlin</address><year>1911/1912</year><keywords>3. Memoiren und Tagebücher</keywords></book>
