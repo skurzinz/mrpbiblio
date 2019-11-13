@@ -13,4 +13,6 @@ Version 1.0
 Licence: CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.de
 
 Sources: see https://github.com/skurzinz/mrpbiblio
+
+[![DOI](https://zenodo.org/badge/220954244.svg)](https://zenodo.org/badge/latestdoi/220954244)
  
