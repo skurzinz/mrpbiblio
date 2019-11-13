@@ -7,7 +7,7 @@
     <xsl:template match="/bibl/*">
         <xsl:variable name="nodename" select="node-name(.)"/>
         <xsl:text>
-@</xsl:text><xsl:value-of select="$nodename"/><xsl:text>{</xsl:text><xsl:number/><xsl:text>,
+@</xsl:text><xsl:value-of select="$nodename"/><xsl:text>{</xsl:text><xsl:value-of select="generate-id(.)"/><xsl:text>,
         </xsl:text>
         <xsl:apply-templates/><xsl:text>}</xsl:text>
     </xsl:template>
