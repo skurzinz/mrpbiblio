@@ -27,3 +27,20 @@ Licence: CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/deed.de
 Sources: see https://github.com/skurzinz/mrpbiblio
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3540785.svg)](https://doi.org/10.5281/zenodo.3540785)
+
+# Austrian National Library (ONB) ALEX Metadata
+
+## Reichsgesetzblatt (RGBl.)
+
+All title data was scraped from https://alex.onb.ac.at/tab_rgb.htm
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3581226.svg)](https://doi.org/10.5281/zenodo.3581226) makes this available as RIS and MODS for reuse. It’s safe to assume CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.de 
+
+## Landesgesetzblätter (LGBl.)
+
+https://alex.onb.ac.at/cgi-content/alex-iv.pl has a working search interface that enables queries on the titles of all legislation present in ALEX. Yet the complete metadata set is not available for download. For working with the title metadata, the ONB kindly provided a CSV extract of their database. 
+
+Here, this data is available in BibLaTeX and Zotero RDF format, together with the conversion script as an `.ipynb` notebook. 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4694705.svg)](https://doi.org/10.5281/zenodo.4694705)
+
